@@ -1,0 +1,1405 @@
+fileFormatVersion: 2
+guid: eca4aeee34b1821438602132c4d2a496
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5043327241527966715
+    second: venusFlyTrapRight_0
+  - first:
+      213: 8922011509673805435
+    second: venusFlyTrapRight_1
+  - first:
+      213: -2561356333861636541
+    second: venusFlyTrapRight_2
+  - first:
+      213: -2484448803259946154
+    second: venusFlyTrapRight_3
+  - first:
+      213: -7338998377747867844
+    second: venusFlyTrapRight_4
+  - first:
+      213: 4012083125267009925
+    second: venusFlyTrapRight_5
+  - first:
+      213: 5457353078660455281
+    second: venusFlyTrapRight_6
+  - first:
+      213: -937341578480895530
+    second: venusFlyTrapRight_7
+  - first:
+      213: -8431721560993521331
+    second: venusFlyTrapRight_8
+  - first:
+      213: -1887619221375875322
+    second: venusFlyTrapRight_9
+  - first:
+      213: 4522837251769426127
+    second: venusFlyTrapRight_10
+  - first:
+      213: 7103267113204351406
+    second: venusFlyTrapRight_11
+  - first:
+      213: 7553336300655859877
+    second: venusFlyTrapRight_12
+  - first:
+      213: -8747697051144613547
+    second: venusFlyTrapRight_13
+  - first:
+      213: -8151075738043221420
+    second: venusFlyTrapRight_14
+  - first:
+      213: -7718113911593428472
+    second: venusFlyTrapRight_15
+  - first:
+      213: -1547014725042272810
+    second: venusFlyTrapRight_16
+  - first:
+      213: 1242864161620801091
+    second: venusFlyTrapRight_17
+  - first:
+      213: -5554766722280516550
+    second: venusFlyTrapRight_18
+  - first:
+      213: 6386047675557900843
+    second: venusFlyTrapRight_19
+  - first:
+      213: 3869680719690651809
+    second: venusFlyTrapRight_20
+  - first:
+      213: -302497992834527535
+    second: venusFlyTrapRight_21
+  - first:
+      213: 2091025103470747344
+    second: venusFlyTrapRight_22
+  - first:
+      213: 7738628321610152454
+    second: venusFlyTrapRight_23
+  - first:
+      213: -1716689702934547771
+    second: venusFlyTrapRight_24
+  - first:
+      213: -1215903252297745428
+    second: venusFlyTrapRight_25
+  - first:
+      213: 3584331318775773232
+    second: venusFlyTrapRight_26
+  - first:
+      213: -1327878482360003929
+    second: venusFlyTrapRight_27
+  - first:
+      213: -4505812329718276239
+    second: venusFlyTrapRight_28
+  - first:
+      213: 4847734192778916731
+    second: venusFlyTrapRight_29
+  - first:
+      213: 13652843542533691
+    second: venusFlyTrapRight_30
+  - first:
+      213: -5929994836927070206
+    second: venusFlyTrapRight_31
+  - first:
+      213: 3715860788483937600
+    second: venusFlyTrapRight_32
+  - first:
+      213: 1324680793230815677
+    second: venusFlyTrapRight_33
+  - first:
+      213: 5426921651262280538
+    second: venusFlyTrapRight_34
+  - first:
+      213: 6337359770245121087
+    second: venusFlyTrapRight_35
+  - first:
+      213: 4157756106957023701
+    second: venusFlyTrapRight_36
+  - first:
+      213: 1221721280786843848
+    second: venusFlyTrapRight_37
+  - first:
+      213: -5251972414369963554
+    second: venusFlyTrapRight_38
+  - first:
+      213: -8775271432294737034
+    second: venusFlyTrapRight_39
+  - first:
+      213: 5885805160251643225
+    second: venusFlyTrapRight_40
+  - first:
+      213: 2714924428492926256
+    second: venusFlyTrapRight_41
+  - first:
+      213: -8457939146640060977
+    second: venusFlyTrapRight_42
+  - first:
+      213: 2532094338939285014
+    second: venusFlyTrapRight_43
+  - first:
+      213: -3519986532412053874
+    second: venusFlyTrapRight_44
+  - first:
+      213: -258622152144539193
+    second: venusFlyTrapRight_45
+  - first:
+      213: -42548160073211816
+    second: venusFlyTrapRight_46
+  - first:
+      213: -5723369497601755930
+    second: venusFlyTrapRight_47
+  - first:
+      213: 3874349930616756234
+    second: venusFlyTrapRight_48
+  - first:
+      213: -2446212678935345825
+    second: venusFlyTrapRight_49
+  - first:
+      213: -2969818625502025202
+    second: venusFlyTrapRight_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: venusFlyTrapRight_0
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 905
+        width: 119
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb335dc76f7df540800000000000000
+      internalID: 5043327241527966715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 905
+        width: 158
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76cd0c723a51db70800000000000000
+      internalID: 8922011509673805435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_2
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 905
+        width: 139
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346faf82cfb347cd0800000000000000
+      internalID: -2561356333861636541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_3
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 905
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65beb030af6758dd0800000000000000
+      internalID: -2484448803259946154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_4
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 905
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c379b2febd3a62a90800000000000000
+      internalID: -7338998377747867844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_5
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 905
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58111e27858cda730800000000000000
+      internalID: 4012083125267009925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_6
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 904
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bd073f5b96cbb40800000000000000
+      internalID: 5457353078660455281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_7
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 904
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d93175fcc4edf2f0800000000000000
+      internalID: -937341578480895530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_8
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 904
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41aaf7d9e18cfa80800000000000000
+      internalID: -8431721560993521331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_9
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 904
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60701b6b154ddc5e0800000000000000
+      internalID: -1887619221375875322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_10
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 904
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0ee98748854ce30800000000000000
+      internalID: 4522837251769426127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_11
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 904
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea182430ecfd39260800000000000000
+      internalID: 7103267113204351406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 712
+        width: 122
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8d7ad9857d2d860800000000000000
+      internalID: 7553336300655859877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_13
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 712
+        width: 123
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5511bc711efe99680800000000000000
+      internalID: -8747697051144613547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 713
+        width: 118
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45af0a07dcf81ee80800000000000000
+      internalID: -8151075738043221420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_15
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 713
+        width: 110
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a197b2a40c3e490800000000000000
+      internalID: -7718113911593428472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_16
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 713
+        width: 114
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d58e83dd46e78ae0800000000000000
+      internalID: -1547014725042272810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_17
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 713
+        width: 114
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346b879be5a8f3110800000000000000
+      internalID: 1242864161620801091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_18
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 713
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a341f44b81189e2b0800000000000000
+      internalID: -5554766722280516550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_19
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 712
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b227654b68ccf9850800000000000000
+      internalID: 6386047675557900843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_20
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 712
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8d653bc1ed3b530800000000000000
+      internalID: 3869680719690651809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_21
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 712
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de44df9daf4dcbf0800000000000000
+      internalID: -302497992834527535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_22
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 712
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de5cccb040d40d10800000000000000
+      internalID: 2091025103470747344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_23
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 521
+        width: 115
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ab95e1571256b60800000000000000
+      internalID: 7738628321610152454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_24
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 521
+        width: 119
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2f3038fc71d28e0800000000000000
+      internalID: -1716689702934547771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_25
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 520
+        width: 118
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebfc852f6e302fe0800000000000000
+      internalID: -1215903252297745428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_26
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 521
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038ffe4085a1eb130800000000000000
+      internalID: 3584331318775773232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_27
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 521
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a21c024e8d629de0800000000000000
+      internalID: -1327878482360003929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_28
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 521
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f11961f832871c0800000000000000
+      internalID: -4505812329718276239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_29
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 521
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b733a1e509c964340800000000000000
+      internalID: 4847734192778916731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_30
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 520
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36d6895031803000800000000000000
+      internalID: 13652843542533691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_31
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 329
+        width: 115
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200cf014d1d64bda0800000000000000
+      internalID: -5929994836927070206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_32
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 329
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045536c13b3619330800000000000000
+      internalID: 3715860788483937600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_33
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 329
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db13e49b926326210800000000000000
+      internalID: 1324680793230815677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_34
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 329
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a535d5f1d7c405b40800000000000000
+      internalID: 5426921651262280538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_35
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 328
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34cf4f5223d2f750800000000000000
+      internalID: 6337359770245121087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_36
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 329
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d962e9862153b930800000000000000
+      internalID: 4157756106957023701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_37
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 328
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8c5db280d64f010800000000000000
+      internalID: 1221721280786843848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_38
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 328
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1e35f4aee3d17b0800000000000000
+      internalID: -5251972414369963554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_39
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 137
+        width: 115
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b507e2029f73680800000000000000
+      internalID: -8775271432294737034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_40
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 137
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955d5f1eb949ea150800000000000000
+      internalID: 5885805160251643225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_41
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 137
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03de95822695da520800000000000000
+      internalID: 2714924428492926256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_42
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 137
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd06a0882d5f9a80800000000000000
+      internalID: -8457939146640060977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_43
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 137
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ee04ab26ec32320800000000000000
+      internalID: 2532094338939285014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_44
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 185
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86ab6106ee762fc0800000000000000
+      internalID: -3519986532412053874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_45
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 136
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1b06ad580396cf0800000000000000
+      internalID: -258622152144539193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_46
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 136
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8506df08ca6d86ff0800000000000000
+      internalID: -42548160073211816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_47
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 137
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4342104c18290b0800000000000000
+      internalID: -5723369497601755930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_48
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 137
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0898f51cb474c530800000000000000
+      internalID: 3874349930616756234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_49
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 137
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f558003778e4d0ed0800000000000000
+      internalID: -2446212678935345825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venusFlyTrapRight_50
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 119
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aec93e1b519c6d0800000000000000
+      internalID: -2969818625502025202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

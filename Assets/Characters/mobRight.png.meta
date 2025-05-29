@@ -1,0 +1,2305 @@
+fileFormatVersion: 2
+guid: 029a5695e363ddc459cd63c58853ba92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3544400239625525091
+    second: mobRight_0
+  - first:
+      213: 5647828157452883960
+    second: mobRight_1
+  - first:
+      213: -2931077015841686812
+    second: mobRight_2
+  - first:
+      213: -1772999218063929954
+    second: mobRight_3
+  - first:
+      213: 4180356692368150473
+    second: mobRight_4
+  - first:
+      213: 8764982826921946724
+    second: mobRight_5
+  - first:
+      213: -8631409100091947846
+    second: mobRight_6
+  - first:
+      213: 3963613866319429414
+    second: mobRight_7
+  - first:
+      213: -6421527620701602896
+    second: mobRight_8
+  - first:
+      213: -3548988049782635973
+    second: mobRight_9
+  - first:
+      213: 831454889083868298
+    second: mobRight_10
+  - first:
+      213: -4280982302865015995
+    second: mobRight_11
+  - first:
+      213: 1789873966448155059
+    second: mobRight_12
+  - first:
+      213: 4884558336515516961
+    second: mobRight_13
+  - first:
+      213: 8569110057524948390
+    second: mobRight_14
+  - first:
+      213: -2601852774451667494
+    second: mobRight_15
+  - first:
+      213: 5451863815348826139
+    second: mobRight_16
+  - first:
+      213: 4419339695622444493
+    second: mobRight_17
+  - first:
+      213: 1399054429820075859
+    second: mobRight_18
+  - first:
+      213: -9107855300821357919
+    second: mobRight_19
+  - first:
+      213: 5040858534091862537
+    second: mobRight_20
+  - first:
+      213: -7928698927696736715
+    second: mobRight_21
+  - first:
+      213: 7072941554871077615
+    second: mobRight_22
+  - first:
+      213: -2808531102436432986
+    second: mobRight_23
+  - first:
+      213: -1765482880758875182
+    second: mobRight_24
+  - first:
+      213: 4918294380056021575
+    second: mobRight_25
+  - first:
+      213: 2554973876248765003
+    second: mobRight_26
+  - first:
+      213: 132633448390218482
+    second: mobRight_27
+  - first:
+      213: -168437656347783809
+    second: mobRight_28
+  - first:
+      213: -400096763976534357
+    second: mobRight_29
+  - first:
+      213: 6714983089166532791
+    second: mobRight_30
+  - first:
+      213: -878824458630645594
+    second: mobRight_31
+  - first:
+      213: -615454724335969531
+    second: mobRight_32
+  - first:
+      213: -8182546180900788586
+    second: mobRight_33
+  - first:
+      213: -1145177750151403810
+    second: mobRight_34
+  - first:
+      213: -8276698203836675303
+    second: mobRight_35
+  - first:
+      213: 8695998202277447772
+    second: mobRight_36
+  - first:
+      213: -1714758430454388162
+    second: mobRight_37
+  - first:
+      213: -3385580914183590800
+    second: mobRight_38
+  - first:
+      213: 3903074078880001728
+    second: mobRight_39
+  - first:
+      213: 5764582305450322508
+    second: mobRight_40
+  - first:
+      213: 7022551562921708956
+    second: mobRight_41
+  - first:
+      213: 9192225779192708611
+    second: mobRight_42
+  - first:
+      213: -6127036851817248369
+    second: mobRight_43
+  - first:
+      213: -2100619814140082938
+    second: mobRight_44
+  - first:
+      213: 7440717222726626964
+    second: mobRight_45
+  - first:
+      213: -6759135384576870855
+    second: mobRight_46
+  - first:
+      213: -1042164978985530344
+    second: mobRight_47
+  - first:
+      213: -6613809972665411529
+    second: mobRight_48
+  - first:
+      213: -6452811029321294753
+    second: mobRight_49
+  - first:
+      213: -2319993259031076472
+    second: mobRight_50
+  - first:
+      213: 6001146788951280592
+    second: mobRight_51
+  - first:
+      213: -1173185203351162291
+    second: mobRight_52
+  - first:
+      213: -1214963856919024541
+    second: mobRight_53
+  - first:
+      213: -6997953877243328157
+    second: mobRight_54
+  - first:
+      213: -7996269207611866844
+    second: mobRight_55
+  - first:
+      213: 4747641551508972872
+    second: mobRight_56
+  - first:
+      213: -916268150201873033
+    second: mobRight_57
+  - first:
+      213: -3263309891125068989
+    second: mobRight_58
+  - first:
+      213: -596947604120134187
+    second: mobRight_59
+  - first:
+      213: -7225318938909539489
+    second: mobRight_60
+  - first:
+      213: 3994002021685225836
+    second: mobRight_61
+  - first:
+      213: -1070880480940575203
+    second: mobRight_62
+  - first:
+      213: -6973651690180887510
+    second: mobRight_63
+  - first:
+      213: 3400987187108543334
+    second: mobRight_64
+  - first:
+      213: 1015972773149725477
+    second: mobRight_65
+  - first:
+      213: 8115687729657808576
+    second: mobRight_66
+  - first:
+      213: 4122114829717943953
+    second: mobRight_67
+  - first:
+      213: -8223084531059962124
+    second: mobRight_68
+  - first:
+      213: -3286927060326235866
+    second: mobRight_69
+  - first:
+      213: 3552692884895175791
+    second: mobRight_70
+  - first:
+      213: 1229205092065847373
+    second: mobRight_71
+  - first:
+      213: 1957599888860200155
+    second: mobRight_72
+  - first:
+      213: -7514607913239597052
+    second: mobRight_73
+  - first:
+      213: -6717083888241045705
+    second: mobRight_74
+  - first:
+      213: 5273726277239873766
+    second: mobRight_75
+  - first:
+      213: -28702038487058676
+    second: mobRight_76
+  - first:
+      213: -4685961477333179545
+    second: mobRight_77
+  - first:
+      213: 4556709317337882526
+    second: mobRight_78
+  - first:
+      213: 8983629247057178324
+    second: mobRight_79
+  - first:
+      213: -3452898492560526714
+    second: mobRight_80
+  - first:
+      213: 3813756285474105162
+    second: mobRight_81
+  - first:
+      213: 194162983898632338
+    second: mobRight_82
+  - first:
+      213: 6847196020877515400
+    second: mobRight_83
+  - first:
+      213: -4903063450332691958
+    second: mobRight_84
+  - first:
+      213: 6335739841215498288
+    second: mobRight_85
+  - first:
+      213: -1552928580937718477
+    second: mobRight_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mobRight_0
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1065
+        width: 128
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36750b82d3d303130800000000000000
+      internalID: 3544400239625525091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_1
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1087
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f79d6529cd116e40800000000000000
+      internalID: 5647828157452883960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_2
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1087
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eab17dcbf8b257d0800000000000000
+      internalID: -2931077015841686812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_3
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1121
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d014cda9a0567e0800000000000000
+      internalID: -1772999218063929954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_4
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1087
+        width: 115
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfc703634c930a30800000000000000
+      internalID: 4180356692368150473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_5
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1087
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ee415317973a970800000000000000
+      internalID: 8764982826921946724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 855
+        width: 163
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab402f59723173880800000000000000
+      internalID: -8631409100091947846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_7
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 855
+        width: 147
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f38c0bfc5910730800000000000000
+      internalID: 3963613866319429414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_8
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 855
+        width: 131
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbb8b4d6a622e6a0800000000000000
+      internalID: -6421527620701602896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_9
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 855
+        width: 130
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32899c0c267fbec0800000000000000
+      internalID: -3548988049782635973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_10
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 848
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a841b9ef0dbe98b00800000000000000
+      internalID: 831454889083868298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_11
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 848
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b3ff3f645e694c0800000000000000
+      internalID: -4280982302865015995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_12
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 848
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b99cdaa3e8e6d810800000000000000
+      internalID: 1789873966448155059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_13
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 848
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a2ea47def69c340800000000000000
+      internalID: 4884558336515516961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_14
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 848
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad600c32389be670800000000000000
+      internalID: 8569110057524948390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_15
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 848
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add91f4dfac54ebd0800000000000000
+      internalID: -2601852774451667494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 740
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b103cad3149e8ab40800000000000000
+      internalID: 5451863815348826139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 752
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5db5bd906a45d30800000000000000
+      internalID: 4419339695622444493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 744
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fbcd667907a6310800000000000000
+      internalID: 1399054429820075859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 736
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa62e00cd56a9180800000000000000
+      internalID: -9107855300821357919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_20
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 692
+        width: 126
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902ba8f012ab4f540800000000000000
+      internalID: 5040858534091862537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_21
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 604
+        width: 131
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e8d93555a97f190800000000000000
+      internalID: -7928698927696736715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_22
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 604
+        width: 131
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea803fbed2282260800000000000000
+      internalID: 7072941554871077615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 724
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3e3a2b7d71609d0800000000000000
+      internalID: -2808531102436432986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_24
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 720
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db75538caebf77e0800000000000000
+      internalID: -1765482880758875182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_25
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 712
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a0a003eaa414440800000000000000
+      internalID: 4918294380056021575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_26
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 676
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42e5302437157320800000000000000
+      internalID: 2554973876248765003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 688
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f252a82b6537d100800000000000000
+      internalID: 132633448390218482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_28
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 603
+        width: 139
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d479e08d699adf0800000000000000
+      internalID: -168437656347783809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_29
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 660
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6356bec12927af0800000000000000
+      internalID: -400096763976534357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 612
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0c686ca89603d50800000000000000
+      internalID: 6714983089166532791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_31
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 608
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a83563afc9cdc3f0800000000000000
+      internalID: -878824458630645594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 604
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b5e9460377577f0800000000000000
+      internalID: -615454724335969531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_33
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 603
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696ed29f991c17e80800000000000000
+      internalID: -8182546180900788586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_34
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 603
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed66b8557e28b10f0800000000000000
+      internalID: -1145177750151403810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_35
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 603
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b833fd5d2432d80800000000000000
+      internalID: -8276698203836675303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_36
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 603
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58ce26aa446ea870800000000000000
+      internalID: 8695998202277447772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_37
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 604
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ae82dea44f338e0800000000000000
+      internalID: -1714758430454388162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 365
+        width: 148
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07caebb98100401d0800000000000000
+      internalID: -3385580914183590800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_39
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 365
+        width: 128
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce6da302318a2630800000000000000
+      internalID: 3903074078880001728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_40
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 365
+        width: 128
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a6ed29019efff40800000000000000
+      internalID: 5764582305450322508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_41
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 365
+        width: 132
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d00dc707d157160800000000000000
+      internalID: 7022551562921708956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_42
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 363
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e38f7c4a8519f70800000000000000
+      internalID: 9192225779192708611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_43
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 363
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8984b9127468faa0800000000000000
+      internalID: -6127036851817248369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_44
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 363
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605880a986919d2e0800000000000000
+      internalID: -2100619814140082938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_45
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 363
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e60c634ecb24760800000000000000
+      internalID: 7440717222726626964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_46
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 363
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936b58ddd2ab232a0800000000000000
+      internalID: -6759135384576870855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_47
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 363
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c0736297c7981f0800000000000000
+      internalID: -1042164978985530344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_48
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 363
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738975f0fd60734a0800000000000000
+      internalID: -6613809972665411529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_49
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 119
+        width: 126
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cd49aae820376a0800000000000000
+      internalID: -6452811029321294753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_50
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 119
+        width: 130
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881e62a3c6abdcfd0800000000000000
+      internalID: -2319993259031076472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_51
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 119
+        width: 127
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbca68853b584350800000000000000
+      internalID: 6001146788951280592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_52
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 127
+        width: 131
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42728af54208bfe0800000000000000
+      internalID: -1173185203351162291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_53
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 121
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c276d2fc4932fe0800000000000000
+      internalID: -1214963856919024541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_54
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 121
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3690850860642ee90800000000000000
+      internalID: -6997953877243328157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_55
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 121
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42186ef858b870190800000000000000
+      internalID: -7996269207611866844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_56
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 122
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845a39646d203e140800000000000000
+      internalID: 4747641551508972872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_57
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 41
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d8634d8f2c843f0800000000000000
+      internalID: -916268150201873033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_58
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bb87b91f466b2d0800000000000000
+      internalID: -3263309891125068989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_59
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd16ea115737b7f0800000000000000
+      internalID: -596947604120134187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_60
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 41
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f530569d4b28abb90800000000000000
+      internalID: -7225318938909539489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_61
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 41
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c696db67dab8d6730800000000000000
+      internalID: 3994002021685225836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_62
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1633a850e77321f0800000000000000
+      internalID: -1070880480940575203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_63
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c377b5cbc983f90800000000000000
+      internalID: -6973651690180887510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_64
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b7245d3dbb23f20800000000000000
+      internalID: 3400987187108543334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 41
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523de05bad5791e00800000000000000
+      internalID: 1015972773149725477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_66
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6004acdf6b0a070800000000000000
+      internalID: 8115687729657808576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_67
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19635b40991b43930800000000000000
+      internalID: 4122114829717943953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_68
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe4920df2cb1ed80800000000000000
+      internalID: -8223084531059962124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_69
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621c2a6e04d7262d0800000000000000
+      internalID: -3286927060326235866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_70
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f641c381b53bd4130800000000000000
+      internalID: 3552692884895175791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_71
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 41
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48afa4c4830f0110800000000000000
+      internalID: 1229205092065847373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_72
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc3bd32abaca2b10800000000000000
+      internalID: 1957599888860200155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_73
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 41
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400b301caefb6b790800000000000000
+      internalID: -7514607913239597052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_74
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f84e2dacf18c2a0800000000000000
+      internalID: -6717083888241045705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_75
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0a6859b1a003940800000000000000
+      internalID: 5273726277239873766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_76
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0736a7e5a70a9ff0800000000000000
+      internalID: -28702038487058676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_77
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 41
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76324681dde18feb0800000000000000
+      internalID: -4685961477333179545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_78
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 41
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f13ac4bfeac3f30800000000000000
+      internalID: 4556709317337882526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_79
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de27a0f3334cac70800000000000000
+      internalID: 8983629247057178324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_80
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 41
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682b2718d17d410d0800000000000000
+      internalID: -3452898492560526714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_81
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 41
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47e89fa22f2de430800000000000000
+      internalID: 3813756285474105162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_82
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290dec3843ec1b200800000000000000
+      internalID: 194162983898632338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_83
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a5fd3c080260f50800000000000000
+      internalID: 6847196020877515400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_84
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 41
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0208bbf4c1d4fbb0800000000000000
+      internalID: -4903063450332691958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_85
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 41
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03880f041d11de750800000000000000
+      internalID: 6335739841215498288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobRight_86
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335e7a3fea3e27ae0800000000000000
+      internalID: -1552928580937718477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2082 @@
+fileFormatVersion: 2
+guid: 4a95fa337245ac1489dee7178f66ad0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1828576342840499504
+    second: fightingLeftFacing_0
+  - first:
+      213: -4621493731426312811
+    second: fightingLeftFacing_1
+  - first:
+      213: -4230486399221696755
+    second: fightingLeftFacing_2
+  - first:
+      213: -3203805113942109958
+    second: fightingLeftFacing_3
+  - first:
+      213: -3077918493892507413
+    second: fightingLeftFacing_4
+  - first:
+      213: 3198449856104175226
+    second: fightingLeftFacing_5
+  - first:
+      213: -4316377300107555320
+    second: fightingLeftFacing_6
+  - first:
+      213: -6521852489864492143
+    second: fightingLeftFacing_7
+  - first:
+      213: 244440284772825305
+    second: fightingLeftFacing_8
+  - first:
+      213: -6225320438988340209
+    second: fightingLeftFacing_9
+  - first:
+      213: -6300587179830578349
+    second: fightingLeftFacing_10
+  - first:
+      213: 5704801782296473553
+    second: fightingLeftFacing_11
+  - first:
+      213: 6041638479169640371
+    second: fightingLeftFacing_12
+  - first:
+      213: 1302314802251122351
+    second: fightingLeftFacing_13
+  - first:
+      213: 5052944261472914300
+    second: fightingLeftFacing_14
+  - first:
+      213: 4888521790462028679
+    second: fightingLeftFacing_15
+  - first:
+      213: -1233853927067490065
+    second: fightingLeftFacing_16
+  - first:
+      213: -2558987887532363493
+    second: fightingLeftFacing_17
+  - first:
+      213: -8362530889406336787
+    second: fightingLeftFacing_18
+  - first:
+      213: -6257371157757114045
+    second: fightingLeftFacing_19
+  - first:
+      213: -6029952280666552138
+    second: fightingLeftFacing_20
+  - first:
+      213: -1919823521935421992
+    second: fightingLeftFacing_21
+  - first:
+      213: 2774955188026942198
+    second: fightingLeftFacing_22
+  - first:
+      213: 7814795197610056613
+    second: fightingLeftFacing_23
+  - first:
+      213: 5968046263271636660
+    second: fightingLeftFacing_24
+  - first:
+      213: -8994631549979227296
+    second: fightingLeftFacing_25
+  - first:
+      213: -1000355120495200987
+    second: fightingLeftFacing_26
+  - first:
+      213: 2742816642956080870
+    second: fightingLeftFacing_27
+  - first:
+      213: -4320618244556058428
+    second: fightingLeftFacing_28
+  - first:
+      213: 6935275221659558342
+    second: fightingLeftFacing_29
+  - first:
+      213: 2399754229696075623
+    second: fightingLeftFacing_30
+  - first:
+      213: 6328139804830637321
+    second: fightingLeftFacing_31
+  - first:
+      213: 7879609372852392043
+    second: fightingLeftFacing_32
+  - first:
+      213: -3193561702965094081
+    second: fightingLeftFacing_33
+  - first:
+      213: -4356061708870913413
+    second: fightingLeftFacing_34
+  - first:
+      213: -7895347164028955131
+    second: fightingLeftFacing_35
+  - first:
+      213: 620453308305763266
+    second: fightingLeftFacing_36
+  - first:
+      213: -3409504845740500762
+    second: fightingLeftFacing_37
+  - first:
+      213: 6938725474014372159
+    second: fightingLeftFacing_38
+  - first:
+      213: 2005077413475616529
+    second: fightingLeftFacing_39
+  - first:
+      213: 7712425384326179504
+    second: fightingLeftFacing_40
+  - first:
+      213: 7899531881526637837
+    second: fightingLeftFacing_41
+  - first:
+      213: -4154278494013548
+    second: fightingLeftFacing_42
+  - first:
+      213: -4673815044615706618
+    second: fightingLeftFacing_43
+  - first:
+      213: -8789972753773131896
+    second: fightingLeftFacing_44
+  - first:
+      213: 7200573560912278513
+    second: fightingLeftFacing_45
+  - first:
+      213: -820720559598901533
+    second: fightingLeftFacing_46
+  - first:
+      213: -6409586676748347291
+    second: fightingLeftFacing_47
+  - first:
+      213: -548424903397312457
+    second: fightingLeftFacing_48
+  - first:
+      213: -7743158589219717332
+    second: fightingLeftFacing_49
+  - first:
+      213: -6453118331624914586
+    second: fightingLeftFacing_50
+  - first:
+      213: -7016170344817810018
+    second: fightingLeftFacing_51
+  - first:
+      213: -3660902119693133379
+    second: fightingLeftFacing_52
+  - first:
+      213: -396613819883957723
+    second: fightingLeftFacing_53
+  - first:
+      213: 4161714972520503345
+    second: fightingLeftFacing_54
+  - first:
+      213: 6146288434647148129
+    second: fightingLeftFacing_55
+  - first:
+      213: -5996645900179072110
+    second: fightingLeftFacing_56
+  - first:
+      213: -8061972127373638384
+    second: fightingLeftFacing_57
+  - first:
+      213: -2158740942593991403
+    second: fightingLeftFacing_58
+  - first:
+      213: -916209505861064531
+    second: fightingLeftFacing_59
+  - first:
+      213: 6552862188116163785
+    second: fightingLeftFacing_60
+  - first:
+      213: 3121497405141898905
+    second: fightingLeftFacing_61
+  - first:
+      213: -4997797528381613884
+    second: fightingLeftFacing_62
+  - first:
+      213: -7532569666610428519
+    second: fightingLeftFacing_63
+  - first:
+      213: 1103453157845370948
+    second: fightingLeftFacing_64
+  - first:
+      213: 7304905373788086150
+    second: fightingLeftFacing_65
+  - first:
+      213: -56020747151844108
+    second: fightingLeftFacing_66
+  - first:
+      213: 3409343132215312644
+    second: fightingLeftFacing_67
+  - first:
+      213: 5762227280239203275
+    second: fightingLeftFacing_68
+  - first:
+      213: 3924705653648214168
+    second: fightingLeftFacing_69
+  - first:
+      213: -4218353237456744958
+    second: fightingLeftFacing_70
+  - first:
+      213: -2496349408210546182
+    second: fightingLeftFacing_71
+  - first:
+      213: -7866439955761158839
+    second: fightingLeftFacing_72
+  - first:
+      213: -2320015580289441870
+    second: fightingLeftFacing_73
+  - first:
+      213: 7065406451882962351
+    second: fightingLeftFacing_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fightingLeftFacing_0
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 792
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dd0bfde78606910800000000000000
+      internalID: 1828576342840499504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_1
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 792
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59dd3aedfe72ddfb0800000000000000
+      internalID: -4621493731426312811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_2
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 792
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07f443b80b4a45c0800000000000000
+      internalID: -4230486399221696755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_3
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 857
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af096ed293cc983d0800000000000000
+      internalID: -3203805113942109958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_4
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 857
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be88ee3ff690945d0800000000000000
+      internalID: -3077918493892507413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_5
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 793
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a761df0b23d236c20800000000000000
+      internalID: 3198449856104175226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_6
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 792
+        width: 102
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e8786f6b52914c0800000000000000
+      internalID: -4316377300107555320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_7
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 792
+        width: 105
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b4128f6b9bd75a0800000000000000
+      internalID: -6521852489864492143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_8
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 833
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8fda6d42d646300800000000000000
+      internalID: 244440284772825305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_9
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 833
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f040f1d3b083b99a0800000000000000
+      internalID: -6225320438988340209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_10
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 833
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35371d58751df88a0800000000000000
+      internalID: -6300587179830578349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_11
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 833
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfebc3eef68b2f40800000000000000
+      internalID: 5704801782296473553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 792
+        width: 105
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7dc34df2638d350800000000000000
+      internalID: 6041638479169640371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_13
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 792
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa649e5a960c21210800000000000000
+      internalID: 1302314802251122351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_14
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 793
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b01feb80aaf1640800000000000000
+      internalID: 5052944261472914300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_15
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 792
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bee3dfaa487d340800000000000000
+      internalID: 4888521790462028679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_16
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 806
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8eb6cf36870eee0800000000000000
+      internalID: -1233853927067490065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_17
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 792
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b113b1b0316ac7cd0800000000000000
+      internalID: -2558987887532363493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 648
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de034b1767252fb80800000000000000
+      internalID: -8362530889406336787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_19
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 648
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349cc12c51a5929a0800000000000000
+      internalID: -6257371157757114045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_20
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 648
+        width: 49
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8405a495e415ca0800000000000000
+      internalID: -6029952280666552138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_21
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 648
+        width: 51
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd899fadaa6b55e0800000000000000
+      internalID: -1919823521935421992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_22
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 648
+        width: 51
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f229f98a0f928620800000000000000
+      internalID: 2774955188026942198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_23
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 648
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abd9f1e3dab37c60800000000000000
+      internalID: 7814795197610056613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_24
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 648
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be3765d472c2d250800000000000000
+      internalID: 5968046263271636660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_25
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 648
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b87f9c246ac2380800000000000000
+      internalID: -8994631549979227296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_26
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 648
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525f3a961560e12f0800000000000000
+      internalID: -1000355120495200987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_27
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 648
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e63d676431701620800000000000000
+      internalID: 2742816642956080870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_28
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 649
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c01a2329941a04c0800000000000000
+      internalID: -4320618244556058428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 507
+        width: 57
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c12696c11c0f3060800000000000000
+      internalID: 6935275221659558342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_30
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 507
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7679649e1c3ad4120800000000000000
+      internalID: 2399754229696075623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_31
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 504
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d90f3ef9112d750800000000000000
+      internalID: 6328139804830637321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_32
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 507
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6094b50afef95d60800000000000000
+      internalID: 7879609372852392043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_33
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 507
+        width: 57
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3959762d803ea3d0800000000000000
+      internalID: -3193561702965094081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_34
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 504
+        width: 54
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72711784f82c83c0800000000000000
+      internalID: -4356061708870913413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_35
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 504
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5069aade5971e6290800000000000000
+      internalID: -7895347164028955131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_36
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 560
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbe7412ffa4c9800800000000000000
+      internalID: 620453308305763266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_37
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 504
+        width: 13
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e81aa938610fa0d0800000000000000
+      internalID: -3409504845740500762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_38
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 505
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31a4904e0e4b4060800000000000000
+      internalID: 6938725474014372159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_39
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 504
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1178f51c84773db10800000000000000
+      internalID: 2005077413475616529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_40
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 504
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baa77d560a080b60800000000000000
+      internalID: 7712425384326179504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 360
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05b44a8466c0ad60800000000000000
+      internalID: 7899531881526637837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_42
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 360
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497f01aa4bd31fff0800000000000000
+      internalID: -4154278494013548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_43
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 360
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608edc7daf5432fb0800000000000000
+      internalID: -4673815044615706618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_44
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 360
+        width: 54
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8878df90a5eb30680800000000000000
+      internalID: -8789972753773131896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_45
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 360
+        width: 51
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3fe3dd0839de360800000000000000
+      internalID: 7200573560912278513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_46
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 360
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e66f39dff63c94f0800000000000000
+      internalID: -820720559598901533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_47
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 360
+        width: 93
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568965f70e29c07a0800000000000000
+      internalID: -6409586676748347291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_48
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 360
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738760fb47a9368f0800000000000000
+      internalID: -548424903397312457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_49
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 360
+        width: 119
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f3b02c946ca8490800000000000000
+      internalID: -7743158589219717332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_50
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 216
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6618fe5411be176a0800000000000000
+      internalID: -6453118331624914586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_51
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 216
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e952181ae3e81ae90800000000000000
+      internalID: -7016170344817810018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_52
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 216
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9573e1becd13dc0800000000000000
+      internalID: -3660902119693133379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_53
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 216
+        width: 76
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5225ec805d1fe7af0800000000000000
+      internalID: -396613819883957723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_54
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 216
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1385281c7b161c930800000000000000
+      internalID: 4161714972520503345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_55
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 216
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1662c3254c00c4550800000000000000
+      internalID: 6146288434647148129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_56
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 216
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b160c4352a7cca0800000000000000
+      internalID: -5996645900179072110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_57
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 217
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0154bc6701f1e1090800000000000000
+      internalID: -8061972127373638384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_58
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 216
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dd79adc8c9a02e0800000000000000
+      internalID: -2158740942593991403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_59
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 216
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8a0570f48f843f0800000000000000
+      internalID: -916209505861064531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_60
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 216
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccb0c8017170fa50800000000000000
+      internalID: 6552862188116163785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_61
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 216
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99659c00a59c15b20800000000000000
+      internalID: 3121497405141898905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_62
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 72
+        width: 63
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c81d7d90a144aab0800000000000000
+      internalID: -4997797528381613884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_63
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 72
+        width: 85
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9958dc72ccfe67790800000000000000
+      internalID: -7532569666610428519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_64
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 72
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44808abfcc0405f00800000000000000
+      internalID: 1103453157845370948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_65
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 72
+        width: 75
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f1b720cbc306560800000000000000
+      internalID: 7304905373788086150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_66
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 72
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc56f16d69f83ff0800000000000000
+      internalID: -56020747151844108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_67
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 72
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4018c19e38b605f20800000000000000
+      internalID: 3409343132215312644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_68
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 72
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc319b98e2b87ff40800000000000000
+      internalID: 5762227280239203275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_69
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 72
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8984bad7ffa577630800000000000000
+      internalID: 3924705653648214168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_70
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 72
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e854094166575c0800000000000000
+      internalID: -4218353237456744958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_71
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 72
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af19a50807f2b5dd0800000000000000
+      internalID: -2496349408210546182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_72
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 72
+        width: 25
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945aae5d98ac4d290800000000000000
+      internalID: -7866439955761158839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_73
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 72
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfd9772f16adcfd0800000000000000
+      internalID: -2320015580289441870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fightingLeftFacing_74
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 72
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadac3edbbd5d0260800000000000000
+      internalID: 7065406451882962351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 67771eae27d12df4993d71c60e206a61
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      fightingLeftFacing_0: 1828576342840499504
+      fightingLeftFacing_1: -4621493731426312811
+      fightingLeftFacing_10: -6300587179830578349
+      fightingLeftFacing_11: 5704801782296473553
+      fightingLeftFacing_12: 6041638479169640371
+      fightingLeftFacing_13: 1302314802251122351
+      fightingLeftFacing_14: 5052944261472914300
+      fightingLeftFacing_15: 4888521790462028679
+      fightingLeftFacing_16: -1233853927067490065
+      fightingLeftFacing_17: -2558987887532363493
+      fightingLeftFacing_18: -8362530889406336787
+      fightingLeftFacing_19: -6257371157757114045
+      fightingLeftFacing_2: -4230486399221696755
+      fightingLeftFacing_20: -6029952280666552138
+      fightingLeftFacing_21: -1919823521935421992
+      fightingLeftFacing_22: 2774955188026942198
+      fightingLeftFacing_23: 7814795197610056613
+      fightingLeftFacing_24: 5968046263271636660
+      fightingLeftFacing_25: -8994631549979227296
+      fightingLeftFacing_26: -1000355120495200987
+      fightingLeftFacing_27: 2742816642956080870
+      fightingLeftFacing_28: -4320618244556058428
+      fightingLeftFacing_29: 6935275221659558342
+      fightingLeftFacing_3: -3203805113942109958
+      fightingLeftFacing_30: 2399754229696075623
+      fightingLeftFacing_31: 6328139804830637321
+      fightingLeftFacing_32: 7879609372852392043
+      fightingLeftFacing_33: -3193561702965094081
+      fightingLeftFacing_34: -4356061708870913413
+      fightingLeftFacing_35: -7895347164028955131
+      fightingLeftFacing_36: 620453308305763266
+      fightingLeftFacing_37: -3409504845740500762
+      fightingLeftFacing_38: 6938725474014372159
+      fightingLeftFacing_39: 2005077413475616529
+      fightingLeftFacing_4: -3077918493892507413
+      fightingLeftFacing_40: 7712425384326179504
+      fightingLeftFacing_41: 7899531881526637837
+      fightingLeftFacing_42: -4154278494013548
+      fightingLeftFacing_43: -4673815044615706618
+      fightingLeftFacing_44: -8789972753773131896
+      fightingLeftFacing_45: 7200573560912278513
+      fightingLeftFacing_46: -820720559598901533
+      fightingLeftFacing_47: -6409586676748347291
+      fightingLeftFacing_48: -548424903397312457
+      fightingLeftFacing_49: -7743158589219717332
+      fightingLeftFacing_5: 3198449856104175226
+      fightingLeftFacing_50: -6453118331624914586
+      fightingLeftFacing_51: -7016170344817810018
+      fightingLeftFacing_52: -3660902119693133379
+      fightingLeftFacing_53: -396613819883957723
+      fightingLeftFacing_54: 4161714972520503345
+      fightingLeftFacing_55: 6146288434647148129
+      fightingLeftFacing_56: -5996645900179072110
+      fightingLeftFacing_57: -8061972127373638384
+      fightingLeftFacing_58: -2158740942593991403
+      fightingLeftFacing_59: -916209505861064531
+      fightingLeftFacing_6: -4316377300107555320
+      fightingLeftFacing_60: 6552862188116163785
+      fightingLeftFacing_61: 3121497405141898905
+      fightingLeftFacing_62: -4997797528381613884
+      fightingLeftFacing_63: -7532569666610428519
+      fightingLeftFacing_64: 1103453157845370948
+      fightingLeftFacing_65: 7304905373788086150
+      fightingLeftFacing_66: -56020747151844108
+      fightingLeftFacing_67: 3409343132215312644
+      fightingLeftFacing_68: 5762227280239203275
+      fightingLeftFacing_69: 3924705653648214168
+      fightingLeftFacing_7: -6521852489864492143
+      fightingLeftFacing_70: -4218353237456744958
+      fightingLeftFacing_71: -2496349408210546182
+      fightingLeftFacing_72: -7866439955761158839
+      fightingLeftFacing_73: -2320015580289441870
+      fightingLeftFacing_74: 7065406451882962351
+      fightingLeftFacing_8: 244440284772825305
+      fightingLeftFacing_9: -6225320438988340209
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

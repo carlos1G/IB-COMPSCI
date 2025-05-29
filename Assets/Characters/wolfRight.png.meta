@@ -1,0 +1,1330 @@
+fileFormatVersion: 2
+guid: 560a6e7f807b93b4fbce4f65deacb803
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6599892720060060220
+    second: wolfRight_0
+  - first:
+      213: 3861427840601092482
+    second: wolfRight_1
+  - first:
+      213: -2629235738689236781
+    second: wolfRight_2
+  - first:
+      213: 635533111596875710
+    second: wolfRight_3
+  - first:
+      213: -4884108736244274715
+    second: wolfRight_4
+  - first:
+      213: -3253298382062781452
+    second: wolfRight_5
+  - first:
+      213: 4114975013903693362
+    second: wolfRight_6
+  - first:
+      213: 6409654855933356003
+    second: wolfRight_7
+  - first:
+      213: 6579105855794620462
+    second: wolfRight_8
+  - first:
+      213: 7861044698488136590
+    second: wolfRight_9
+  - first:
+      213: 3263022673868968486
+    second: wolfRight_10
+  - first:
+      213: 1272412161465731550
+    second: wolfRight_11
+  - first:
+      213: 2207201377576394596
+    second: wolfRight_12
+  - first:
+      213: -8470830636882775958
+    second: wolfRight_13
+  - first:
+      213: -4565301090347141494
+    second: wolfRight_14
+  - first:
+      213: -6980594228125349899
+    second: wolfRight_15
+  - first:
+      213: 1483497418286898462
+    second: wolfRight_16
+  - first:
+      213: 2503560422382192666
+    second: wolfRight_17
+  - first:
+      213: 8196858030771866825
+    second: wolfRight_18
+  - first:
+      213: -3458005078922097042
+    second: wolfRight_19
+  - first:
+      213: 103535193928540944
+    second: wolfRight_20
+  - first:
+      213: 403115927249401345
+    second: wolfRight_21
+  - first:
+      213: 7854885046815563176
+    second: wolfRight_22
+  - first:
+      213: 3646152490556714400
+    second: wolfRight_23
+  - first:
+      213: 8417333308534392927
+    second: wolfRight_24
+  - first:
+      213: 7288614142511833771
+    second: wolfRight_25
+  - first:
+      213: 8975324048700606582
+    second: wolfRight_26
+  - first:
+      213: 5370592589930644280
+    second: wolfRight_27
+  - first:
+      213: -5979401260618405497
+    second: wolfRight_28
+  - first:
+      213: 1724419539098854243
+    second: wolfRight_29
+  - first:
+      213: 6255419176040142523
+    second: wolfRight_30
+  - first:
+      213: 103388704188656255
+    second: wolfRight_31
+  - first:
+      213: -4563639831036709795
+    second: wolfRight_32
+  - first:
+      213: -8712683302220102434
+    second: wolfRight_33
+  - first:
+      213: 2162501598701784487
+    second: wolfRight_34
+  - first:
+      213: -6899905381028657006
+    second: wolfRight_35
+  - first:
+      213: -1789056211420990833
+    second: wolfRight_36
+  - first:
+      213: -7720273927724007503
+    second: wolfRight_37
+  - first:
+      213: -1576456594959200332
+    second: wolfRight_38
+  - first:
+      213: 6126649835482073079
+    second: wolfRight_39
+  - first:
+      213: 2365307018883316004
+    second: wolfRight_40
+  - first:
+      213: -8014740612933301986
+    second: wolfRight_41
+  - first:
+      213: -1340713195711370559
+    second: wolfRight_42
+  - first:
+      213: 7479603181250099517
+    second: wolfRight_43
+  - first:
+      213: 5146125277026254358
+    second: wolfRight_44
+  - first:
+      213: 323358162327161671
+    second: wolfRight_45
+  - first:
+      213: -4943367096126505706
+    second: wolfRight_46
+  - first:
+      213: -2035351104092352509
+    second: wolfRight_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wolfRight_0
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 812
+        width: 111
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32ddde0677879b50800000000000000
+      internalID: 6599892720060060220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_1
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 813
+        width: 115
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281f4dc892c869530800000000000000
+      internalID: 3861427840601092482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_2
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 813
+        width: 123
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d09aa4a604138bd0800000000000000
+      internalID: -2629235738689236781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_3
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 880
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebffabf6ffdd1d800800000000000000
+      internalID: 635533111596875710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_4
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 813
+        width: 114
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e927c34bf8283cb0800000000000000
+      internalID: -4884108736244274715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_5
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 888
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb7bc4bb56f9d2d0800000000000000
+      internalID: -3253298382062781452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_6
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 869
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236765b19f35b1930800000000000000
+      internalID: 4114975013903693362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_7
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 876
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7e3c4b12ba3f850800000000000000
+      internalID: 6409654855933356003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 815
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28a4521bedad4b50800000000000000
+      internalID: 6579105855794620462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 815
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e836ad0f08a081d60800000000000000
+      internalID: 7861044698488136590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 815
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622510a65d5984d20800000000000000
+      internalID: 3263022673868968486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 815
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed94d0c8e1488a110800000000000000
+      internalID: 1272412161465731550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_12
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 815
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f913a65fd81ae10800000000000000
+      internalID: 2207201377576394596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 815
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a603b188a60917a80800000000000000
+      internalID: -8470830636882775958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_14
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 850
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86b729a8dac4a0c0800000000000000
+      internalID: -4565301090347141494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_15
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 843
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f74277c882ff1f90800000000000000
+      internalID: -6980594228125349899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 636
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d1332ca01769410800000000000000
+      internalID: 1483497418286898462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 636
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1841d190fe6eb220800000000000000
+      internalID: 2503560422382192666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 636
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc077e33f611c170800000000000000
+      internalID: 8196858030771866825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 635
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e0a57b3b2b200d0800000000000000
+      internalID: -3458005078922097042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_20
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 635
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013acd7d5b4df6100800000000000000
+      internalID: 103535193928540944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_21
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 634
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106b00fccc7289500800000000000000
+      internalID: 403115927249401345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_22
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 633
+        width: 137
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad18f64558220d60800000000000000
+      internalID: 7854885046815563176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_23
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 634
+        width: 145
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ade98c3f5cb99230800000000000000
+      internalID: 3646152490556714400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_24
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 634
+        width: 148
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5881431c0060d470800000000000000
+      internalID: 8417333308534392927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 456
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba26e4522fb562560800000000000000
+      internalID: 7288614142511833771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 456
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67802d24ba1ce8c70800000000000000
+      internalID: 8975324048700606582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_27
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 456
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8334924818d288a40800000000000000
+      internalID: 5370592589930644280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 456
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7892153db36e40da0800000000000000
+      internalID: -5979401260618405497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_29
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 454
+        width: 111
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363eab73f6e5ee710800000000000000
+      internalID: 1724419539098854243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_30
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 454
+        width: 111
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb61a051996bfc650800000000000000
+      internalID: 6255419176040142523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 277
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ae3fa8a7f4f6100800000000000000
+      internalID: 103388704188656255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 277
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54bb3cb0c1baa0c0800000000000000
+      internalID: -4563639831036709795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_33
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 277
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed481bac2b4561780800000000000000
+      internalID: -8712683302220102434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 277
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad85d02fbfb20e10800000000000000
+      internalID: 2162501598701784487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_35
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 275
+        width: 111
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2980bfbfc9c9e30a0800000000000000
+      internalID: -6899905381028657006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_36
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 275
+        width: 114
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82bb03cadefb27e0800000000000000
+      internalID: -1789056211420990833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_37
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 275
+        width: 126
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bffc4934c31cd490800000000000000
+      internalID: -7720273927724007503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_38
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 275
+        width: 118
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf82ad441d4f1ae0800000000000000
+      internalID: -1576456594959200332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_39
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 98
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f74d13a09b360550800000000000000
+      internalID: 6126649835482073079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_40
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 98
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4293745a33243d020800000000000000
+      internalID: 2365307018883316004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_41
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 98
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19c63f50ebe5c090800000000000000
+      internalID: -8014740612933301986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_42
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 98
+        width: 137
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cae1ffa374d46de0800000000000000
+      internalID: -1340713195711370559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_43
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 97
+        width: 126
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d393b47f673ecc760800000000000000
+      internalID: 7479603181250099517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_44
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 101
+        width: 122
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61efec29ca5ba6740800000000000000
+      internalID: 5146125277026254358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_45
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 97
+        width: 122
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bcbb0198ccc7400800000000000000
+      internalID: 323358162327161671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_46
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 97
+        width: 147
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d760131d1a56bb0800000000000000
+      internalID: -4943367096126505706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfRight_47
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 98
+        width: 149
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300506f54faf0c3e0800000000000000
+      internalID: -2035351104092352509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

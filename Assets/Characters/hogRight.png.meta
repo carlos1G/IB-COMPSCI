@@ -1,0 +1,1305 @@
+fileFormatVersion: 2
+guid: 66edab9607e781f439c0a0840a0820f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3359899314409082141
+    second: hogRight_0
+  - first:
+      213: -7007352606101240613
+    second: hogRight_1
+  - first:
+      213: -6821207631725514700
+    second: hogRight_2
+  - first:
+      213: 5494976064809794
+    second: hogRight_3
+  - first:
+      213: 6784507592772222497
+    second: hogRight_4
+  - first:
+      213: -1200085133866727495
+    second: hogRight_5
+  - first:
+      213: -2737815322758716220
+    second: hogRight_6
+  - first:
+      213: 554126004377506814
+    second: hogRight_7
+  - first:
+      213: 3396790709810709626
+    second: hogRight_8
+  - first:
+      213: 831389075913261734
+    second: hogRight_9
+  - first:
+      213: 6329534399650321600
+    second: hogRight_10
+  - first:
+      213: 1589171869366051056
+    second: hogRight_11
+  - first:
+      213: -6264272364993673850
+    second: hogRight_12
+  - first:
+      213: -5647804695156907130
+    second: hogRight_13
+  - first:
+      213: 3269588047952872177
+    second: hogRight_14
+  - first:
+      213: 7891912651631841730
+    second: hogRight_15
+  - first:
+      213: 6122113808629113015
+    second: hogRight_16
+  - first:
+      213: -8220871664900935126
+    second: hogRight_17
+  - first:
+      213: 550555022771487940
+    second: hogRight_18
+  - first:
+      213: -4611718745290547391
+    second: hogRight_19
+  - first:
+      213: -7148119517802046638
+    second: hogRight_20
+  - first:
+      213: -4733168583166462332
+    second: hogRight_21
+  - first:
+      213: 7927380349870425278
+    second: hogRight_22
+  - first:
+      213: -5916989275920956194
+    second: hogRight_23
+  - first:
+      213: 3168687056446421010
+    second: hogRight_24
+  - first:
+      213: 2832484951272279992
+    second: hogRight_25
+  - first:
+      213: -8786122183497328026
+    second: hogRight_26
+  - first:
+      213: 8438989375270260546
+    second: hogRight_27
+  - first:
+      213: 157659448036999810
+    second: hogRight_28
+  - first:
+      213: -7429660064823250963
+    second: hogRight_29
+  - first:
+      213: 1716465041081861158
+    second: hogRight_30
+  - first:
+      213: -4604056502815338393
+    second: hogRight_31
+  - first:
+      213: -1174432754452774394
+    second: hogRight_32
+  - first:
+      213: 8169926083471206431
+    second: hogRight_33
+  - first:
+      213: 6312428474440124828
+    second: hogRight_34
+  - first:
+      213: 9146814930472384865
+    second: hogRight_35
+  - first:
+      213: 8291133030637925286
+    second: hogRight_36
+  - first:
+      213: 8546156728717403067
+    second: hogRight_37
+  - first:
+      213: 655084122294278097
+    second: hogRight_38
+  - first:
+      213: 8091421660690531110
+    second: hogRight_39
+  - first:
+      213: 5803006832851564656
+    second: hogRight_40
+  - first:
+      213: -602297315623145191
+    second: hogRight_41
+  - first:
+      213: -7755812705278770387
+    second: hogRight_42
+  - first:
+      213: 5424806215438408657
+    second: hogRight_43
+  - first:
+      213: 709167618426404913
+    second: hogRight_44
+  - first:
+      213: -8418218728182365104
+    second: hogRight_45
+  - first:
+      213: 5103089287909844071
+    second: hogRight_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hogRight_0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 904
+        width: 159
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d8e6cff92c0ae20800000000000000
+      internalID: 3359899314409082141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 904
+        width: 186
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd48d696ee1e0ce90800000000000000
+      internalID: -7007352606101240613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 904
+        width: 167
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43031db9cc33651a0800000000000000
+      internalID: -6821207631725514700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_3
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 904
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b6460d6a5831000800000000000000
+      internalID: 5494976064809794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_4
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 904
+        width: 135
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ef023b5b9672e50800000000000000
+      internalID: 6784507592772222497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_5
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 905
+        width: 135
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b785a7dde0785fe0800000000000000
+      internalID: -1200085133866727495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_6
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 904
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c468523873510ad0800000000000000
+      internalID: -2737815322758716220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_7
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 904
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef35ab34aa6a0b700800000000000000
+      internalID: 554126004377506814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_8
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 904
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a744d925723d32f20800000000000000
+      internalID: 3396790709810709626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_9
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 904
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a243fba5ffa98b00800000000000000
+      internalID: 831389075913261734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_10
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 905
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4d5cc400607d750800000000000000
+      internalID: 6329534399650321600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_11
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 904
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f06b98356fdd0610800000000000000
+      internalID: 1589171869366051056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 712
+        width: 190
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685814c3975d019a0800000000000000
+      internalID: -6264272364993673850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_13
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 712
+        width: 191
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683a3689d87fe91b0800000000000000
+      internalID: -5647804695156907130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 712
+        width: 170
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f20810b109ef5d20800000000000000
+      internalID: 3269588047952872177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_15
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 712
+        width: 162
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c15de65eb4b58d60800000000000000
+      internalID: 7891912651631841730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_16
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 712
+        width: 158
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b02ad5921e16f450800000000000000
+      internalID: 6122113808629113015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_17
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 712
+        width: 135
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22718dd6c899ed80800000000000000
+      internalID: -8220871664900935126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_18
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 713
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c40a9150e6f3a700800000000000000
+      internalID: 550555022771487940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_19
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 712
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f52fe2c32efffb0800000000000000
+      internalID: -4611718745290547391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_20
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 712
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b5f51cb27cccc90800000000000000
+      internalID: -7148119517802046638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_21
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 712
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486f2524048605eb0800000000000000
+      internalID: -4733168583166462332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_22
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 712
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb440795d66b30e60800000000000000
+      internalID: 7927380349870425278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 520
+        width: 134
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed48fe46a91a2eda0800000000000000
+      internalID: -5916989275920956194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_24
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 520
+        width: 131
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218fdd3e61079fb20800000000000000
+      internalID: 3168687056446421010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_25
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 520
+        width: 135
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf49385e020f4720800000000000000
+      internalID: 2832484951272279992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_26
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 520
+        width: 135
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a567bcc6c611680800000000000000
+      internalID: -8786122183497328026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_27
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 521
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f874800205d1570800000000000000
+      internalID: 8438989375270260546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_28
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 520
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282cab3ce6e103200800000000000000
+      internalID: 157659448036999810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_29
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 521
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defed4af88b84e890800000000000000
+      internalID: -7429660064823250963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_30
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 520
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6248f035cdb12d710800000000000000
+      internalID: 1716465041081861158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_31
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 328
+        width: 134
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7605dd7010b1b10c0800000000000000
+      internalID: -4604056502815338393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_32
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 328
+        width: 131
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602424ad1a393bfe0800000000000000
+      internalID: -1174432754452774394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_33
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 328
+        width: 135
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18ef7e9c78616170800000000000000
+      internalID: 8169926083471206431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_34
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 328
+        width: 135
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c998019b0404a9750800000000000000
+      internalID: 6312428474440124828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_35
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 328
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169bb05a7b300fe70800000000000000
+      internalID: 9146814930472384865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_36
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 329
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a37ea42095001370800000000000000
+      internalID: 8291133030637925286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_37
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 328
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3e30ae34c0a9670800000000000000
+      internalID: 8546156728717403067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_38
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 328
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d75957d983571900800000000000000
+      internalID: 655084122294278097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 137
+        width: 134
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6234c5551218a4070800000000000000
+      internalID: 8091421660690531110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_40
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 136
+        width: 131
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078384508fb688050800000000000000
+      internalID: 5803006832851564656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_41
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 136
+        width: 134
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9117c1558c534a7f0800000000000000
+      internalID: -602297315623145191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_42
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 137
+        width: 135
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23c565cf61dd5490800000000000000
+      internalID: -7755812705278770387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_43
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 137
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db9986d288c84b40800000000000000
+      internalID: 5424806215438408657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_44
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 137
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130048e013877d900800000000000000
+      internalID: 709167618426404913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_45
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 136
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05446291baa7c2b80800000000000000
+      internalID: -8418218728182365104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogRight_46
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 136
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764a7f68ba0d1d640800000000000000
+      internalID: 5103089287909844071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

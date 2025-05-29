@@ -1,40 +1,43 @@
 using UnityEngine;
-using System.Collections.Generic;
 using System.Collections;
-using System.Collections.Specialized;
+using System;
+
 public class PlayerCtrl : MonoBehaviour
 {
-    public float moveSpeed;
-    private Rigidbody2D rb;
-    private float x;
-    private float y;
+    Rigidbody2D rb;
+    float inputHorizontal;
+    float inputVertical;
+    float speed = 10f;
 
-    private Vector2 input;
+    bool facingRight = true;
     void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
+        rb = gameObject.GetComponent<Rigidbody2D>();
     }
-
-    private void Update()
+    private void FixedUpdate()
     {
-        GetInput();
-    }
+        inputHorizontal = Input.GetAxis("Horizontal");
+        inputVertical = Input.GetAxis("Vertical");
 
-    void FixedUpdate()
-    {
-        rb.linearVelocity = new Vector2(x * moveSpeed, y * moveSpeed);
-    }
+        rb.linearVelocity = new Vector2(inputHorizontal * speed, rb.linearVelocity.y);
 
-    private void GetInput()
-    {
-        x = Input.GetAxis("Horizontal");
-        y = Input.GetAxis("Vertical");
-        if(x > 1)
+        if (inputHorizontal > 0 && !facingRight)
         {
-            x = 1;
+            Flip();
         }
-
-        input = new Vector2(x, y);
-        input.Normalize(); // Normalize the input vector to prevent faster diagonal movement
+        if (inputHorizontal < 0 && facingRight)
+        {
+            Flip();
+        }
     }
+
+    void Flip()
+    {
+        Vector3 currentScale = gameObject.transform.localScale;
+        currentScale.x *= -1;
+        gameObject.transform.localScale = currentScale;
+
+        facingRight = !facingRight;
+    }
+
 }

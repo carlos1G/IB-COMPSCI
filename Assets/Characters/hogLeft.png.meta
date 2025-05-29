@@ -1,0 +1,1180 @@
+fileFormatVersion: 2
+guid: 0337b2b1aada4a14f80dfe8a7a9f9ace
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8805481807502738432
+    second: hogLeft_0
+  - first:
+      213: 4668436041299349534
+    second: hogLeft_1
+  - first:
+      213: -9190769515205604141
+    second: hogLeft_2
+  - first:
+      213: -2119318636965640320
+    second: hogLeft_3
+  - first:
+      213: -9125842763730171363
+    second: hogLeft_4
+  - first:
+      213: 2133674024387808251
+    second: hogLeft_5
+  - first:
+      213: -6135043267869736693
+    second: hogLeft_6
+  - first:
+      213: -1986989942265818377
+    second: hogLeft_7
+  - first:
+      213: 7114008120475496461
+    second: hogLeft_8
+  - first:
+      213: -9090981065902256581
+    second: hogLeft_9
+  - first:
+      213: -7680991832683347779
+    second: hogLeft_10
+  - first:
+      213: 5357304655628424210
+    second: hogLeft_11
+  - first:
+      213: -3249477952042176882
+    second: hogLeft_12
+  - first:
+      213: 5117796027519316332
+    second: hogLeft_13
+  - first:
+      213: -7551861645687509014
+    second: hogLeft_14
+  - first:
+      213: 3886227927967744478
+    second: hogLeft_15
+  - first:
+      213: -7592649877731189697
+    second: hogLeft_16
+  - first:
+      213: 8517725224186736281
+    second: hogLeft_17
+  - first:
+      213: 7709829228742302847
+    second: hogLeft_18
+  - first:
+      213: -8856318228972329625
+    second: hogLeft_19
+  - first:
+      213: -9177684584577546631
+    second: hogLeft_20
+  - first:
+      213: 2733841499989734253
+    second: hogLeft_21
+  - first:
+      213: 8622631371270314850
+    second: hogLeft_22
+  - first:
+      213: 5544729561136159264
+    second: hogLeft_23
+  - first:
+      213: 8690449210428141417
+    second: hogLeft_24
+  - first:
+      213: -4673529146048912497
+    second: hogLeft_25
+  - first:
+      213: -2923169160592321829
+    second: hogLeft_26
+  - first:
+      213: 5613172007571260078
+    second: hogLeft_27
+  - first:
+      213: -628670256271160317
+    second: hogLeft_28
+  - first:
+      213: -2146959250905930001
+    second: hogLeft_29
+  - first:
+      213: -7905580749018332184
+    second: hogLeft_30
+  - first:
+      213: 3650714909904862583
+    second: hogLeft_31
+  - first:
+      213: 3793308199542088603
+    second: hogLeft_32
+  - first:
+      213: 4419398640339682266
+    second: hogLeft_33
+  - first:
+      213: -3467296407718960848
+    second: hogLeft_34
+  - first:
+      213: -4270777049320721074
+    second: hogLeft_35
+  - first:
+      213: 2341611537198494748
+    second: hogLeft_36
+  - first:
+      213: -923369640808856353
+    second: hogLeft_37
+  - first:
+      213: -330405359125656519
+    second: hogLeft_38
+  - first:
+      213: 3692506343795444756
+    second: hogLeft_39
+  - first:
+      213: -8369089949228745987
+    second: hogLeft_40
+  - first:
+      213: -2998563778426381553
+    second: hogLeft_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hogLeft_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 416
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0048d5cec0b533a70800000000000000
+      internalID: 8805481807502738432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 416
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10574a58dd99c040800000000000000
+      internalID: 4668436041299349534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 416
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc4ea912d3d37080800000000000000
+      internalID: -9190769515205604141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 416
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0874cc5adeaa692e0800000000000000
+      internalID: -2119318636965640320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 416
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a4bcf6b5e7a5180800000000000000
+      internalID: -9125842763730171363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 416
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb0d1278355c9d10800000000000000
+      internalID: 2133674024387808251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 416
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0109f817a2fbdaa0800000000000000
+      internalID: -6135043267869736693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_7
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 416
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2d8fecc2bcc64e0800000000000000
+      internalID: -1986989942265818377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 416
+        width: 84
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00bf26a1b80ab260800000000000000
+      internalID: 7114008120475496461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_9
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 416
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e081bf2e856d180800000000000000
+      internalID: -9090981065902256581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 316
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db08b32bf92a76590800000000000000
+      internalID: -7680991832683347779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 316
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21457483338f85a40800000000000000
+      internalID: 5357304655628424210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 316
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8eef03e40987e2d0800000000000000
+      internalID: -3249477952042176882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 316
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61b13d2f50160740800000000000000
+      internalID: 5117796027519316332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 316
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef26ef38d5623790800000000000000
+      internalID: -7551861645687509014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 316
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed148bad5b7aee530800000000000000
+      internalID: 3886227927967744478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_16
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 316
+        width: 88
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c5bede92d71a690800000000000000
+      internalID: -7592649877731189697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_17
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 316
+        width: 90
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ee80a66f9053670800000000000000
+      internalID: 8517725224186736281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_18
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 316
+        width: 92
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cdb1ac5d0defa60800000000000000
+      internalID: 7709829228742302847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 216
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765a9485e79081580800000000000000
+      internalID: -8856318228972329625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 216
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9764dabee7052a080800000000000000
+      internalID: -9177684584577546631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 216
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63fb171c5e80f520800000000000000
+      internalID: 2733841499989734253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 216
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bd4b92c8db9a770800000000000000
+      internalID: 8622631371270314850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_23
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 216
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ad02b9826d2fc40800000000000000
+      internalID: 5544729561136159264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 216
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fa42e438daa9870800000000000000
+      internalID: 8690449210428141417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 116
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83e15ac00a442fb0800000000000000
+      internalID: -4673529146048912497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_26
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 116
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd29484d221de67d0800000000000000
+      internalID: -2923169160592321829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_27
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 116
+        width: 9
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea28376733ef5ed40800000000000000
+      internalID: 5613172007571260078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_28
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 116
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c8a169bb38647f0800000000000000
+      internalID: -628670256271160317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_29
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 116
+        width: 79
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe66386bfe77432e0800000000000000
+      internalID: -2146959250905930001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_30
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 116
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3889fb13cb94290800000000000000
+      internalID: -7905580749018332184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_31
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 116
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77df9154ed1f9a230800000000000000
+      internalID: 3650714909904862583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_32
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 116
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93684da5b984a430800000000000000
+      internalID: 3793308199542088603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 15
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad38a4ef5abd45d30800000000000000
+      internalID: 4419398640339682266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 15
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0316ce6a940b1efc0800000000000000
+      internalID: -3467296407718960848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_35
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 15
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45f854b6e62bb4c0800000000000000
+      internalID: -4270777049320721074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 15
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c143ca469431f7020800000000000000
+      internalID: 2341611537198494748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 15
+        width: 91
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4453334388f23f0800000000000000
+      internalID: -923369640808856353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_38
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 15
+        width: 90
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c0e61931a2a6bf0800000000000000
+      internalID: -330405359125656519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_39
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 17
+        width: 90
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ccdc8b4fa6e3330800000000000000
+      internalID: 3692506343795444756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_40
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 15
+        width: 90
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfabde258050bdb80800000000000000
+      internalID: -8369089949228745987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hogLeft_41
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 15
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bda8e6126f266d0800000000000000
+      internalID: -2998563778426381553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

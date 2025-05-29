@@ -1,0 +1,2305 @@
+fileFormatVersion: 2
+guid: 0f225731c8e3d04479186dfffe5e2865
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3117767695430783122
+    second: mobLeft_0
+  - first:
+      213: 6471340147659066027
+    second: mobLeft_1
+  - first:
+      213: -1069960981077596455
+    second: mobLeft_2
+  - first:
+      213: 8956550096880932163
+    second: mobLeft_3
+  - first:
+      213: 2904443835416356791
+    second: mobLeft_4
+  - first:
+      213: 4882609599616908586
+    second: mobLeft_5
+  - first:
+      213: -8421830705245450035
+    second: mobLeft_6
+  - first:
+      213: -3454591194166672493
+    second: mobLeft_7
+  - first:
+      213: -4397240250542828365
+    second: mobLeft_8
+  - first:
+      213: -281296335682400044
+    second: mobLeft_9
+  - first:
+      213: 4581226747649821435
+    second: mobLeft_10
+  - first:
+      213: -5289413847621118043
+    second: mobLeft_11
+  - first:
+      213: -771867578171638332
+    second: mobLeft_12
+  - first:
+      213: 1805614016894607135
+    second: mobLeft_13
+  - first:
+      213: -3713469525022247868
+    second: mobLeft_14
+  - first:
+      213: -4861567207410839047
+    second: mobLeft_15
+  - first:
+      213: 3156320977220862148
+    second: mobLeft_16
+  - first:
+      213: 997419625647602892
+    second: mobLeft_17
+  - first:
+      213: -1012664678026777981
+    second: mobLeft_18
+  - first:
+      213: -1810967361728131555
+    second: mobLeft_19
+  - first:
+      213: 5718414864204603077
+    second: mobLeft_20
+  - first:
+      213: -298870329372788668
+    second: mobLeft_21
+  - first:
+      213: -8333795812472849726
+    second: mobLeft_22
+  - first:
+      213: -1822296209212423164
+    second: mobLeft_23
+  - first:
+      213: 6518410195023058149
+    second: mobLeft_24
+  - first:
+      213: -8141406799862397668
+    second: mobLeft_25
+  - first:
+      213: 7196315631725353494
+    second: mobLeft_26
+  - first:
+      213: 4374969552894969774
+    second: mobLeft_27
+  - first:
+      213: 4566774527427490013
+    second: mobLeft_28
+  - first:
+      213: -6845728344469578190
+    second: mobLeft_29
+  - first:
+      213: 6524401362232005233
+    second: mobLeft_30
+  - first:
+      213: -3711735663567126408
+    second: mobLeft_31
+  - first:
+      213: 616254562001466660
+    second: mobLeft_32
+  - first:
+      213: 2954656651022637622
+    second: mobLeft_33
+  - first:
+      213: 382039603012010968
+    second: mobLeft_34
+  - first:
+      213: -1268277292452718557
+    second: mobLeft_35
+  - first:
+      213: 8110749439822078470
+    second: mobLeft_36
+  - first:
+      213: 5261348239741638775
+    second: mobLeft_37
+  - first:
+      213: -6741866184912697923
+    second: mobLeft_38
+  - first:
+      213: -5209631153550045867
+    second: mobLeft_39
+  - first:
+      213: 5643719065397432690
+    second: mobLeft_40
+  - first:
+      213: -8239862648884686489
+    second: mobLeft_41
+  - first:
+      213: -7622768081257182842
+    second: mobLeft_42
+  - first:
+      213: 6099255011411258888
+    second: mobLeft_43
+  - first:
+      213: -4728927111339229932
+    second: mobLeft_44
+  - first:
+      213: 4059764218064103319
+    second: mobLeft_45
+  - first:
+      213: 3274339725385691961
+    second: mobLeft_46
+  - first:
+      213: -6798768579062515655
+    second: mobLeft_47
+  - first:
+      213: 5354584949989793044
+    second: mobLeft_48
+  - first:
+      213: -9140353504246274044
+    second: mobLeft_49
+  - first:
+      213: 7892504962269267781
+    second: mobLeft_50
+  - first:
+      213: -3842267198670179980
+    second: mobLeft_51
+  - first:
+      213: -7896683133343277298
+    second: mobLeft_52
+  - first:
+      213: 5909749766184064774
+    second: mobLeft_53
+  - first:
+      213: -6454518178238404070
+    second: mobLeft_54
+  - first:
+      213: 4892282337603789505
+    second: mobLeft_55
+  - first:
+      213: -6428026783014433238
+    second: mobLeft_56
+  - first:
+      213: -8866294240327939355
+    second: mobLeft_57
+  - first:
+      213: -2617474461186271771
+    second: mobLeft_58
+  - first:
+      213: 2731289247800717211
+    second: mobLeft_59
+  - first:
+      213: 3636390512098729757
+    second: mobLeft_60
+  - first:
+      213: -6055230789769063598
+    second: mobLeft_61
+  - first:
+      213: 6121534567248418684
+    second: mobLeft_62
+  - first:
+      213: 3427365018516230224
+    second: mobLeft_63
+  - first:
+      213: 1027213064532546029
+    second: mobLeft_64
+  - first:
+      213: -8712353290568747835
+    second: mobLeft_65
+  - first:
+      213: -5277343252737880586
+    second: mobLeft_66
+  - first:
+      213: 2085484201242644804
+    second: mobLeft_67
+  - first:
+      213: 8028016906790971580
+    second: mobLeft_68
+  - first:
+      213: -5784654402500562894
+    second: mobLeft_69
+  - first:
+      213: 7370263962207986197
+    second: mobLeft_70
+  - first:
+      213: -6981739848796932458
+    second: mobLeft_71
+  - first:
+      213: 6378366696907196715
+    second: mobLeft_72
+  - first:
+      213: -5810122121743887533
+    second: mobLeft_73
+  - first:
+      213: -7137379281172864410
+    second: mobLeft_74
+  - first:
+      213: -8046751928579991229
+    second: mobLeft_75
+  - first:
+      213: 411843630834859666
+    second: mobLeft_76
+  - first:
+      213: 8140164957834137331
+    second: mobLeft_77
+  - first:
+      213: 4308965924362112217
+    second: mobLeft_78
+  - first:
+      213: 5316323926323079797
+    second: mobLeft_79
+  - first:
+      213: -8339782275449260565
+    second: mobLeft_80
+  - first:
+      213: -5558783225355054773
+    second: mobLeft_81
+  - first:
+      213: -3931562516145035500
+    second: mobLeft_82
+  - first:
+      213: -7924106894236948061
+    second: mobLeft_83
+  - first:
+      213: 2921244877362470592
+    second: mobLeft_84
+  - first:
+      213: -750433370212778115
+    second: mobLeft_85
+  - first:
+      213: 6830950480867124698
+    second: mobLeft_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mobLeft_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1087
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fe8a5bcc67bb4d0800000000000000
+      internalID: -3117767695430783122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1087
+        width: 115
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa41f1e391dec950800000000000000
+      internalID: 6471340147659066027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1121
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d66757182cb621f0800000000000000
+      internalID: -1069960981077596455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1087
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3451499fbde0c4c70800000000000000
+      internalID: 8956550096880932163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_4
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1087
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7a018a748ae4820800000000000000
+      internalID: 2904443835416356791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_5
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1065
+        width: 128
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2df31acf8382c340800000000000000
+      internalID: 4882609599616908586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 848
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc01e572895af1b80800000000000000
+      internalID: -8421830705245450035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 848
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393c083bc93de00d0800000000000000
+      internalID: -3454591194166672493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 848
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4585a2a4dd9f2c0800000000000000
+      internalID: -4397240250542828365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_9
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 848
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0180b1972a81cf0800000000000000
+      internalID: -281296335682400044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 848
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa8f216479c39f30800000000000000
+      internalID: 4581226747649821435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_11
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 848
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7d28e412a3896b0800000000000000
+      internalID: -5289413847621118043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_12
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 855
+        width: 130
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd3075f686c945f0800000000000000
+      internalID: -771867578171638332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_13
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 855
+        width: 131
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f187eb164de0910800000000000000
+      internalID: 1805614016894607135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_14
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 855
+        width: 147
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4447fcc442b177cc0800000000000000
+      internalID: -3713469525022247868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_15
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 855
+        width: 163
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1d69ee16e388cb0800000000000000
+      internalID: -4861567207410839047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_16
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 604
+        width: 131
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c00d54b4318dcb20800000000000000
+      internalID: 3156320977220862148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_17
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 604
+        width: 131
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc7abe6ddb87dd00800000000000000
+      internalID: 997419625647602892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_18
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 692
+        width: 126
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ae0a537da42f1f0800000000000000
+      internalID: -1012664678026777981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_19
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 736
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e4e5887c62ed6e0800000000000000
+      internalID: -1810967361728131555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_20
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 752
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce9a338504eb5f40800000000000000
+      internalID: 5718414864204603077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_21
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 744
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448b4d7d4033adbf0800000000000000
+      internalID: -298870329372788668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_22
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 740
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cafae6ecd8685c80800000000000000
+      internalID: -8333795812472849726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_23
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 720
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4044a5ea047e5b6e0800000000000000
+      internalID: -1822296209212423164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_24
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 724
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e452ae498b067a50800000000000000
+      internalID: 6518410195023058149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_25
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 712
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15804a86a9e30f80800000000000000
+      internalID: -8141406799862397668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_26
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 603
+        width: 139
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a949870f27ed360800000000000000
+      internalID: 7196315631725353494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_27
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 688
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea74477f0a307bc30800000000000000
+      internalID: 4374969552894969774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_28
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 676
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd03e94ac31706f30800000000000000
+      internalID: 4566774527427490013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_29
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 612
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e511747561ff0a0800000000000000
+      internalID: -6845728344469578190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_30
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 660
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172d9ef98745b8a50800000000000000
+      internalID: 6524401362232005233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_31
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 604
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870cee064144d7cc0800000000000000
+      internalID: -3711735663567126408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_32
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 603
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425bf4352406d8800800000000000000
+      internalID: 616254562001466660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_33
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 603
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a1375d19c010920800000000000000
+      internalID: 2954656651022637622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_34
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 603
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d389abaef64d4500800000000000000
+      internalID: 382039603012010968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_35
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 603
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32859aaa58c266ee0800000000000000
+      internalID: -1268277292452718557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_36
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 604
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6022bc694ab2f8070800000000000000
+      internalID: 8110749439822078470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_37
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 608
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7785d652950140940800000000000000
+      internalID: 5261348239741638775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 363
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db58f0dbc641072a0800000000000000
+      internalID: -6741866184912697923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_39
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 363
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d47d1511ca3b7b0800000000000000
+      internalID: -5209631153550045867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 363
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2711d199694825e40800000000000000
+      internalID: 5643719065397432690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_41
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 363
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7611837d39026ad80800000000000000
+      internalID: -8239862648884686489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_42
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 363
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689ca7731dc763690800000000000000
+      internalID: -7622768081257182842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_43
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 363
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e60bd1e18e4a450800000000000000
+      internalID: 6099255011411258888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_44
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 363
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d39efd8d97f5eb0800000000000000
+      internalID: -4728927111339229932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_45
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 365
+        width: 132
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7976d89fb0e275830800000000000000
+      internalID: 4059764218064103319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_46
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 365
+        width: 128
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933709dc1aac07d20800000000000000
+      internalID: 3274339725385691961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_47
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 365
+        width: 128
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93834eeaffbe5a1a0800000000000000
+      internalID: -6798768579062515655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_48
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 365
+        width: 148
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d5bc764ae4f4a40800000000000000
+      internalID: 5354584949989793044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_49
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 122
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40867e16ae0f62180800000000000000
+      internalID: -9140353504246274044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_50
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 121
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5474118627fc78d60800000000000000
+      internalID: 7892504962269267781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_51
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 121
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471f02b07568daac0800000000000000
+      internalID: -3842267198670179980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_52
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 121
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f51455788596290800000000000000
+      internalID: -7896683133343277298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_53
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 127
+        width: 131
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60759d4e916a30250800000000000000
+      internalID: 5909749766184064774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_54
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 119
+        width: 127
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a6cc51ae1fc66a0800000000000000
+      internalID: -6454518178238404070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_55
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 119
+        width: 130
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2aac99dd0e4e340800000000000000
+      internalID: 4892282337603789505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_56
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 119
+        width: 126
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e4abfa2bf0bc6a0800000000000000
+      internalID: -6428026783014433238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_57
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea49233d5894f480800000000000000
+      internalID: -8866294240327939355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_58
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 41
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5d55478dcdcabd0800000000000000
+      internalID: -2617474461186271771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_59
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 41
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f6102991d77e520800000000000000
+      internalID: 2731289247800717211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_60
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fde3287ed077230800000000000000
+      internalID: 3636390512098729757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_61
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2539ecebdaf77fba0800000000000000
+      internalID: -6055230789769063598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_62
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 41
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77dd11714f04f450800000000000000
+      internalID: 6121534567248418684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_63
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 41
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050924c4352709f20800000000000000
+      internalID: 3427365018516230224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_64
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de15a1cf6d4614e00800000000000000
+      internalID: 1027213064532546029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_65
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 41
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4b1fd97d0871780800000000000000
+      internalID: -8712353290568747835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_66
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 41
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd01cea54c13c6b0800000000000000
+      internalID: -5277343252737880586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_67
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441d1c7e4d021fc10800000000000000
+      internalID: 2085484201242644804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_68
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb82b1ca7de396f60800000000000000
+      internalID: 8028016906790971580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_69
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230fd862877c8bfa0800000000000000
+      internalID: -5784654402500562894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_70
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 41
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51225483600784660800000000000000
+      internalID: 7370263962207986197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_71
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696f44e2990eb1f90800000000000000
+      internalID: -6981739848796932458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_72
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 41
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29c55087b2848850800000000000000
+      internalID: 6378366696907196715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_73
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35311dfa6bc4e5fa0800000000000000
+      internalID: -5810122121743887533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_74
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6626576fb5fe2fc90800000000000000
+      internalID: -7137379281172864410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_75
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349dc4521c1345090800000000000000
+      internalID: -8046751928579991229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_76
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e3be6a99927b500800000000000000
+      internalID: 411843630834859666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_77
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe49c496eca7f070800000000000000
+      internalID: 8140164957834137331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_78
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 41
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dccdd6ada58ccb30800000000000000
+      internalID: 4308965924362112217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_79
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57aa563a17067c940800000000000000
+      internalID: 5316323926323079797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_80
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be57fbfd434234c80800000000000000
+      internalID: -8339782275449260565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_81
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41df45bb1c3bd2b0800000000000000
+      internalID: -5558783225355054773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_82
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 41
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4172fecc8b84079c0800000000000000
+      internalID: -3931562516145035500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_83
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 41
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a968ce63cae70290800000000000000
+      internalID: -7924106894236948061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_84
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce9e111db85a8820800000000000000
+      internalID: 2921244877362470592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_85
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 41
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f3ed463dce595f0800000000000000
+      internalID: -750433370212778115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft_86
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 41
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad56e5a35496cce50800000000000000
+      internalID: 6830950480867124698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

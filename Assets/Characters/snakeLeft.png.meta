@@ -1,0 +1,1305 @@
+fileFormatVersion: 2
+guid: 37fb6c61d1f6fdc4f832d9fa7c20a48d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -262378376887232418
+    second: snakeLeft_0
+  - first:
+      213: -7204021751294020783
+    second: snakeLeft_1
+  - first:
+      213: 7497202989465307716
+    second: snakeLeft_2
+  - first:
+      213: 6858282932920489773
+    second: snakeLeft_3
+  - first:
+      213: -6741863688899862514
+    second: snakeLeft_4
+  - first:
+      213: -3474696201406297035
+    second: snakeLeft_5
+  - first:
+      213: 7374772108619809184
+    second: snakeLeft_6
+  - first:
+      213: -2368421647265066994
+    second: snakeLeft_7
+  - first:
+      213: -6583549282879903649
+    second: snakeLeft_8
+  - first:
+      213: 5531613738762518030
+    second: snakeLeft_9
+  - first:
+      213: 9154238326420252878
+    second: snakeLeft_10
+  - first:
+      213: 1882544791326344318
+    second: snakeLeft_11
+  - first:
+      213: 3823702547601266833
+    second: snakeLeft_12
+  - first:
+      213: 3868308406057951759
+    second: snakeLeft_13
+  - first:
+      213: -4676090483296439586
+    second: snakeLeft_14
+  - first:
+      213: 5553243944506846359
+    second: snakeLeft_15
+  - first:
+      213: -760706448498655628
+    second: snakeLeft_16
+  - first:
+      213: 1501285341408048759
+    second: snakeLeft_17
+  - first:
+      213: 6901859797437478988
+    second: snakeLeft_18
+  - first:
+      213: -4864137910327311929
+    second: snakeLeft_19
+  - first:
+      213: 1630266238310355217
+    second: snakeLeft_20
+  - first:
+      213: 1161174057774248295
+    second: snakeLeft_21
+  - first:
+      213: 4396897917416418092
+    second: snakeLeft_22
+  - first:
+      213: 7283102488128954552
+    second: snakeLeft_23
+  - first:
+      213: 1173505732109339179
+    second: snakeLeft_24
+  - first:
+      213: -2879886433827398453
+    second: snakeLeft_25
+  - first:
+      213: -3979656043965798165
+    second: snakeLeft_26
+  - first:
+      213: 825472248450907381
+    second: snakeLeft_27
+  - first:
+      213: -8713900799022414551
+    second: snakeLeft_28
+  - first:
+      213: 6312440752525480467
+    second: snakeLeft_29
+  - first:
+      213: -4857310654319074826
+    second: snakeLeft_30
+  - first:
+      213: -9147883535817991783
+    second: snakeLeft_31
+  - first:
+      213: -7768886848501871349
+    second: snakeLeft_32
+  - first:
+      213: 2231531791238411645
+    second: snakeLeft_33
+  - first:
+      213: -5089918716585664384
+    second: snakeLeft_34
+  - first:
+      213: 998532109666531766
+    second: snakeLeft_35
+  - first:
+      213: -5516700307156725208
+    second: snakeLeft_36
+  - first:
+      213: 7109924390246857927
+    second: snakeLeft_37
+  - first:
+      213: 7572140141743293836
+    second: snakeLeft_38
+  - first:
+      213: 8022286653288830100
+    second: snakeLeft_39
+  - first:
+      213: -8479245935271878695
+    second: snakeLeft_40
+  - first:
+      213: 6249175118821176573
+    second: snakeLeft_41
+  - first:
+      213: 3323668081040770820
+    second: snakeLeft_42
+  - first:
+      213: -589071699740329645
+    second: snakeLeft_43
+  - first:
+      213: 5745454565298921615
+    second: snakeLeft_44
+  - first:
+      213: -5462546498062620729
+    second: snakeLeft_45
+  - first:
+      213: -3565409212517618111
+    second: snakeLeft_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snakeLeft_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 904
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5894e0a148db5cf0800000000000000
+      internalID: -262378376887232418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 905
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153beefb26c260c90800000000000000
+      internalID: -7204021751294020783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 904
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a8314a56a6b0860800000000000000
+      internalID: 7497202989465307716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 904
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2799d1adf38d2f50800000000000000
+      internalID: 6858282932920489773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 904
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00e403e1b61072a0800000000000000
+      internalID: -6741863688899862514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 904
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c47cce63667cfc0800000000000000
+      internalID: -3474696201406297035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_6
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 905
+        width: 135
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a10eb9d824785660800000000000000
+      internalID: 7374772108619809184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_7
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 904
+        width: 135
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e009b6c6f0da12fd0800000000000000
+      internalID: -2368421647265066994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_8
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 904
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f586aa0fec882a4a0800000000000000
+      internalID: -6583549282879903649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_9
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 904
+        width: 167
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e3c9d336d34cc40800000000000000
+      internalID: 5531613738762518030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_10
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 904
+        width: 186
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8ab83b1436a0f70800000000000000
+      internalID: 9154238326420252878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_11
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 904
+        width: 159
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74c4c87384202a10800000000000000
+      internalID: 1882544791326344318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 712
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198978c4535801530800000000000000
+      internalID: 3823702547601266833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 712
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02edb8000efea530800000000000000
+      internalID: 3868308406057951759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 712
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2f78dfa703b1fb0800000000000000
+      internalID: -4676090483296439586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 712
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c6b67f1f5111d40800000000000000
+      internalID: 5553243944506846359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 713
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e73e6f38d6175f0800000000000000
+      internalID: -760706448498655628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_17
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 712
+        width: 135
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776b0295013a5d410800000000000000
+      internalID: 1501285341408048759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_18
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 712
+        width: 158
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c487fcb0be458cf50800000000000000
+      internalID: 6901859797437478988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_19
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 712
+        width: 162
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c10e64875c1f7cb0800000000000000
+      internalID: -4864137910327311929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_20
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 712
+        width: 170
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1111dc7918edf9610800000000000000
+      internalID: 1630266238310355217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_21
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 712
+        width: 191
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761780447a15d1010800000000000000
+      internalID: 1161174057774248295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_22
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 712
+        width: 190
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ba2413c5be40d30800000000000000
+      internalID: 4396897917416418092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 520
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0a0bb1027c21560800000000000000
+      internalID: 7283102488128954552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_24
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 521
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a0340fe31294010800000000000000
+      internalID: 1173505732109339179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_25
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 520
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc5046fb869808d0800000000000000
+      internalID: -2879886433827398453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_26
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 521
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8ae23c9eb65c8c0800000000000000
+      internalID: -3979656043965798165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_27
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 520
+        width: 135
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcfbdce2aaa47b00800000000000000
+      internalID: 825472248450907381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_28
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 520
+        width: 135
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925c64a3461021780800000000000000
+      internalID: -8713900799022414551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_29
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 520
+        width: 131
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3121bff6b6b4a9750800000000000000
+      internalID: 6312440752525480467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_30
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 520
+        width: 134
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1679de1bd579cb0800000000000000
+      internalID: -4857310654319074826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 328
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9999ce844603c0180800000000000000
+      internalID: -9147883535817991783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 328
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d87d6929e5f2490800000000000000
+      internalID: -7768886848501871349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_33
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 329
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75b1c9475ef7fe10800000000000000
+      internalID: 2231531791238411645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_34
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 328
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080ac4215e9fc59b0800000000000000
+      internalID: -5089918716585664384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_35
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 328
+        width: 135
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9be7dc9af7bdd00800000000000000
+      internalID: 998532109666531766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_36
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 328
+        width: 135
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82292a3ac4eb073b0800000000000000
+      internalID: -5516700307156725208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_37
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 328
+        width: 131
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccbc8c10968ba260800000000000000
+      internalID: 7109924390246857927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_38
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 328
+        width: 134
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85c51a0755a51960800000000000000
+      internalID: 7572140141743293836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_39
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 136
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49453af0533e45f60800000000000000
+      internalID: 8022286653288830100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_40
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 136
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfd1f03fbaa35a80800000000000000
+      internalID: -8479245935271878695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_41
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 137
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4bb8839a789b650800000000000000
+      internalID: 6249175118821176573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_42
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 137
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4074db9928a002e20800000000000000
+      internalID: 3323668081040770820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_43
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 137
+        width: 135
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359fdbdf86233d7f0800000000000000
+      internalID: -589071699740329645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_44
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 136
+        width: 134
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80e9c58c74fbbf40800000000000000
+      internalID: 5745454565298921615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_45
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 136
+        width: 131
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c76cedd6e22134b0800000000000000
+      internalID: -5462546498062620729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeLeft_46
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 137
+        width: 134
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e6bf8263f158ec0800000000000000
+      internalID: -3565409212517618111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
