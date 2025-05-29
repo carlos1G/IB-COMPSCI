@@ -1,43 +1,69 @@
 using UnityEngine;
 using System.Collections;
 using System;
+using UnityEngine.Rendering;
 
 public class PlayerCtrl : MonoBehaviour
 {
-    Rigidbody2D rb;
-    float inputHorizontal;
-    float inputVertical;
-    float speed = 10f;
+    [SerializeField] private float speed = 5f;
 
-    bool facingRight = true;
+    [SerializeField] private SpriteRenderer spriteRenderer;
+    [SerializeField] private Animator animator;
+
+    private Vector2 movement;
+
+    private Vector2 screenBounds;
+
+    private float playerHalfWidth;
+
+    private float xPosLastFrame;
     void Start()
     {
-        rb = gameObject.GetComponent<Rigidbody2D>();
-    }
-    private void FixedUpdate()
-    {
-        inputHorizontal = Input.GetAxis("Horizontal");
-        inputVertical = Input.GetAxis("Vertical");
-
-        rb.linearVelocity = new Vector2(inputHorizontal * speed, rb.linearVelocity.y);
-
-        if (inputHorizontal > 0 && !facingRight)
-        {
-            Flip();
-        }
-        if (inputHorizontal < 0 && facingRight)
-        {
-            Flip();
-        }
+        screenBounds = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, Screen.height));
+        playerHalfWidth = spriteRenderer.bounds.size.x;
     }
 
-    void Flip()
+    private void Update()
     {
-        Vector3 currentScale = gameObject.transform.localScale;
-        currentScale.x *= -1;
-        gameObject.transform.localScale = currentScale;
+        HandleMovement();
+        ClampMovement();
+        FlipCharacterX();
+    }
 
-        facingRight = !facingRight;
+    private void FlipCharacterX()
+    {
+        if(transform.position.x < xPosLastFrame)
+        {
+            spriteRenderer.flipX = false;
+        }
+        else if (transform.position.x > xPosLastFrame)
+        {
+            spriteRenderer.flipX = true;
+        }
+        xPosLastFrame = transform.position.x;
+    }
+
+    private void ClampMovement()
+    {
+        float clampedX = Mathf.Clamp(transform.position.x, -screenBounds.x + playerHalfWidth, screenBounds.x - playerHalfWidth);
+        Vector2 pos = transform.position;
+        pos.x = clampedX;
+        transform.position = pos;
+    }
+
+    private void HandleMovement()
+    {
+        float input = Input.GetAxis("Horizontal");
+        movement.x = input * speed * Time.deltaTime;
+        transform.Translate(movement);
+        if(input != 0)
+        {
+            animator.SetBool("isRunning", true);
+        }
+        else
+        {
+            animator.SetBool("isRunning", false);
+        }
     }
 
 }
