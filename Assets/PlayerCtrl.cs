@@ -1,24 +1,20 @@
 using UnityEngine;
 using System.Collections;
-using System;
-using UnityEngine.Rendering;
 
 public class PlayerCtrl : MonoBehaviour
 {
     [SerializeField] private float speed = 5f;
-
     [SerializeField] private SpriteRenderer spriteRenderer;
     [SerializeField] private Animator animator;
 
     private Vector2 movement;
-
     private Vector2 screenBounds;
-
     private float playerHalfWidth;
-
     private float xPosLastFrame;
+
     void Start()
     {
+        FlipCharacterX(); // Ensure the character starts facing right
         screenBounds = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, Screen.height));
         playerHalfWidth = spriteRenderer.bounds.size.x;
     }
@@ -32,11 +28,11 @@ public class PlayerCtrl : MonoBehaviour
 
     private void FlipCharacterX()
     {
-        if(transform.position.x < xPosLastFrame)
+        if (transform.position.x >= xPosLastFrame)
         {
             spriteRenderer.flipX = false;
         }
-        else if (transform.position.x > xPosLastFrame)
+        else if (transform.position.x < xPosLastFrame)
         {
             spriteRenderer.flipX = true;
         }
@@ -56,7 +52,16 @@ public class PlayerCtrl : MonoBehaviour
         float input = Input.GetAxis("Horizontal");
         movement.x = input * speed * Time.deltaTime;
         transform.Translate(movement);
-        if(input != 0)
+
+        if (Input.GetKeyDown(KeyCode.Space)) // Press Space to fight
+        {
+            StartCoroutine(PlayFightingAnimation()); // Ensures animation plays fully
+        }
+
+        // Prevent Running While Fighting
+        if (animator.GetBool("isFighting")) return;
+
+        if (input != 0)
         {
             animator.SetBool("isRunning", true);
         }
@@ -66,4 +71,11 @@ public class PlayerCtrl : MonoBehaviour
         }
     }
 
+    private  IEnumerator PlayFightingAnimation()
+    {
+        animator.SetBool("isFighting", true);
+        yield return new WaitForSeconds(0.3f); // Adjust timing to match animation duration
+        animator.SetBool("isFighting", false);
+        animator.SetBool("isRunning", true);
+    }
 }
