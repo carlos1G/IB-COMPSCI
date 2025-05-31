@@ -52,15 +52,6 @@ public class PlayerCtrl : MonoBehaviour
         float input = Input.GetAxis("Horizontal");
         movement.x = input * speed * Time.deltaTime;
         transform.Translate(movement);
-
-        if (Input.GetKeyDown(KeyCode.Space)) // Press Space to fight
-        {
-            StartCoroutine(PlayFightingAnimation()); // Ensures animation plays fully
-        }
-
-        // Prevent Running While Fighting
-        if (animator.GetBool("isFighting")) return;
-
         if (input != 0)
         {
             animator.SetBool("isRunning", true);
@@ -69,13 +60,5 @@ public class PlayerCtrl : MonoBehaviour
         {
             animator.SetBool("isRunning", false);
         }
-    }
-
-    private  IEnumerator PlayFightingAnimation()
-    {
-        animator.SetBool("isFighting", true);
-        yield return new WaitForSeconds(0.3f); // Adjust timing to match animation duration
-        animator.SetBool("isFighting", false);
-        animator.SetBool("isRunning", true);
     }
 }
