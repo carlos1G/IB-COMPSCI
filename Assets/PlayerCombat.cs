@@ -1,5 +1,8 @@
+using System;
 using UnityEngine;
+using Unity.Collections;
 using UnityEngine.InputSystem.LowLevel;
+using System.Collections;
 
 public class PlayerCombat : MonoBehaviour
 {
@@ -11,13 +14,22 @@ public class PlayerCombat : MonoBehaviour
     public LayerMask enemyLayers;
 
     public int attackDamage = 20; // Replace with your desired damage value
+
+    public float attackRate = 2f;
+    float nextAttackTime = 0.1f;
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Space)) // Press Space to fight
+        if (Time.time >= nextAttackTime)
         {
-            Attack(); // Ensures animation plays fully
-        }   
+            if (Input.GetKeyDown(KeyCode.Space)) // Press Space to fight
+            {
+                
+                Attack(); // Ensures animation plays fully
+                nextAttackTime = Time.time + 2.5f / attackRate;
+            }
+        }
+        
     }
 
     void Attack()
@@ -28,10 +40,22 @@ public class PlayerCombat : MonoBehaviour
         foreach(Collider2D enemy in hitEnemies)
         {
             Debug.Log("We hit" + enemy.name);
-            enemy.GetComponent<Enemy>().TakeDamage(attackDamage); // Replace with your damage value
+            enemy.GetComponent<Enemy>().TakeDamage(attackDamage);
 
         }
     }
+
+    IEnumerator DelayAnimation()
+    {
+        yield return new WaitForSeconds(4f); // Adjust delay duration as needed
+    }
+
+    IEnumerator DelayedDamage(Collider2D enemy)
+    {
+        yield return new WaitForSeconds(0.8f); // Adjust delay duration as needed
+        enemy.GetComponent<Enemy>().TakeDamage(attackDamage); // Apply damage after delay
+    }
+
     void OnDrawGizmosSelected()
     {
         if (attackPoint == null)

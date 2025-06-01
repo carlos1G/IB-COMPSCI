@@ -55,7 +55,7 @@ public class PlayerCtrl : MonoBehaviour
         if (input != 0)
         {
             animator.SetBool("isRunning", true);
-        }
+        } 
         else
         {
             animator.SetBool("isRunning", false);
