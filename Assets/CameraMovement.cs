@@ -2,16 +2,15 @@ using UnityEngine;
 
 public class CameraMovement : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    public Transform player;
-    void Start()
-    {
-        
-    }
+    public float FollowSpeed = 5f; // Increased speed for better tracking
+    public float yOffset = 1f;
+    public Transform target;
 
-    // Update is called once per frame
     void Update()
     {
-        transform.position = player.transform.position + new Vector3(0, 2.8f, -5);
+        if (target == null) return; // Prevent errors if no target is assigned
+
+        Vector3 newPos = new Vector3(target.position.x, target.position.y + yOffset, -10f);
+        transform.position = Vector3.Lerp(transform.position, newPos, FollowSpeed * Time.deltaTime);
     }
 }

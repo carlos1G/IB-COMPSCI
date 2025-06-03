@@ -1,8 +1,10 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerHealth : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public Image healthBar;
     public Animator animator;
 
     public Transform player;
@@ -22,6 +24,7 @@ public class PlayerHealth : MonoBehaviour
         currentHealth -= damage;
         animator.SetTrigger("Hurt");
         Debug.Log("Player actually hit with damage!");
+        healthBar.fillAmount = currentHealth / 200f;
         if (currentHealth <= 0)
         {
             Die();
