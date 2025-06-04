@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pixelatedBackgroundJungleWithVine_0: 4314654256743529482
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

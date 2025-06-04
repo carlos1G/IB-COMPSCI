@@ -116,13 +116,13 @@ TextureImporter:
       name: You Win_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 768
-        height: 432
-      alignment: 1
-      pivot: {x: 0, y: 1}
-      border: {x: 0, y: 0, z: 0, w: 0}
+        x: 45
+        y: 2
+        width: 623
+        height: 417
+      alignment: 9
+      pivot: {x: 0.62137103, y: 0.5193135}
+      border: {x: 160, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []

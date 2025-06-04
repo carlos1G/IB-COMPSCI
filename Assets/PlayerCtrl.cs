@@ -41,10 +41,14 @@ public class PlayerCtrl : MonoBehaviour
         {
             spriteRenderer.flipX = transform.position.x < xPosLastFrame; // Flip left or right
         }
-
         xPosLastFrame = transform.position.x;
     }
 
+    public void fixFacingCharacter()
+    {
+                // Ensure the character is facing right when this method is called
+        spriteRenderer.flipX = false;
+    }
     private void ClampMovement()
     {
         float extendedBounds = screenBounds.x * 2; // Extend beyond camera view

@@ -1472,7 +1472,61 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      walkingLeft_0: -5244818976136665699
+      walkingLeft_1: -7573161480030985771
+      walkingLeft_10: 6539228953162196860
+      walkingLeft_11: -501323091531918829
+      walkingLeft_12: 6735097791869813779
+      walkingLeft_13: -679193390815829893
+      walkingLeft_14: 7240359613102425118
+      walkingLeft_15: -2328321783754708540
+      walkingLeft_16: 8599532161551005854
+      walkingLeft_17: 4187421517670304320
+      walkingLeft_18: -2959845075581518615
+      walkingLeft_19: 1716660179988662871
+      walkingLeft_2: -7552648800822587186
+      walkingLeft_20: 219627768460070083
+      walkingLeft_21: -4141177942327107356
+      walkingLeft_22: -2835472832843122905
+      walkingLeft_23: 474595643915501881
+      walkingLeft_24: 43397540960863902
+      walkingLeft_25: -1128028573591795409
+      walkingLeft_26: 474560515972683648
+      walkingLeft_27: 9067940570688796352
+      walkingLeft_28: -3574302976565854058
+      walkingLeft_29: 5824334067276907916
+      walkingLeft_3: -7253406544637980793
+      walkingLeft_30: -538948309064469432
+      walkingLeft_31: -7385461310121020152
+      walkingLeft_32: 3810479279886833475
+      walkingLeft_33: -4085282867614885687
+      walkingLeft_34: 8201922530193359183
+      walkingLeft_35: -5369856642985831592
+      walkingLeft_36: -7508967411760146104
+      walkingLeft_37: -6107113417182344464
+      walkingLeft_38: 3758230241633817291
+      walkingLeft_39: -5584192243840563325
+      walkingLeft_4: 3123248963838349988
+      walkingLeft_40: -6828665234794326720
+      walkingLeft_41: -7092099137238515668
+      walkingLeft_42: 1951953044805230861
+      walkingLeft_43: 4697706271532368288
+      walkingLeft_44: -2274258973339740815
+      walkingLeft_45: -889403799555977081
+      walkingLeft_46: -2223672025701835805
+      walkingLeft_47: 2008871737608725003
+      walkingLeft_48: -2694882773567943955
+      walkingLeft_49: -53702819441847423
+      walkingLeft_5: -2028797442906207518
+      walkingLeft_50: -6744873578573170046
+      walkingLeft_51: 2130276091062882017
+      walkingLeft_52: -7396226282877107475
+      walkingLeft_53: 4440549856398333868
+      walkingLeft_6: 6170759787662185464
+      walkingLeft_7: -4716513081520242953
+      walkingLeft_8: -2630557320935884974
+      walkingLeft_9: -8763690401854546099
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
