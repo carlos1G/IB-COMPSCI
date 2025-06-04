@@ -6,8 +6,14 @@ public class EnemyWeapon : MonoBehaviour
     public int attackDamage = 50;
 
     public Vector3 attackOffset;
-    public float attackRange = 6f;
+    public float attackRange = 2f;
     public LayerMask playerLayer;
+
+
+    private void Start()
+    {
+        OnDrawGizmosSelected();
+    }
     public void Attack()
     {
         Vector3 pos = transform.position;

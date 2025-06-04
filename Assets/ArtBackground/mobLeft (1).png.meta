@@ -1,235 +1,268 @@
 fileFormatVersion: 2
-guid: 3064968e0e65a9c4ab92d39f9773c706
+guid: 6538b1eaa67ffe0459e396fdb5a1c896
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1472765309911369617
-    second: goblinLeft_0
+      213: -9034882657058477763
+    second: mobLeft (1)_0
   - first:
-      213: -4007592504977554784
-    second: goblinLeft_1
+      213: -7622604430145149382
+    second: mobLeft (1)_1
   - first:
-      213: -1432438227561139323
-    second: goblinLeft_2
+      213: -1463481160175058704
+    second: mobLeft (1)_2
   - first:
-      213: -7892614135709267824
-    second: goblinLeft_3
+      213: -7381876505616210944
+    second: mobLeft (1)_3
   - first:
-      213: -3381623124345372846
-    second: goblinLeft_4
+      213: 1745495054967673583
+    second: mobLeft (1)_4
   - first:
-      213: -1196806867238880517
-    second: goblinLeft_5
+      213: 5204155387318043285
+    second: mobLeft (1)_5
   - first:
-      213: 512077540475722018
-    second: goblinLeft_6
+      213: 660603254523479845
+    second: mobLeft (1)_6
   - first:
-      213: 375553809683496360
-    second: goblinLeft_7
+      213: -6575991821771575032
+    second: mobLeft (1)_7
   - first:
-      213: -1322230065261740898
-    second: goblinLeft_8
+      213: -1579981359594867718
+    second: mobLeft (1)_8
   - first:
-      213: -4715375353879662437
-    second: goblinLeft_9
+      213: 5088785004051599165
+    second: mobLeft (1)_9
   - first:
-      213: -8206953891664181840
-    second: goblinLeft_10
+      213: 4434543690476046783
+    second: mobLeft (1)_10
   - first:
-      213: 1658978759507072749
-    second: goblinLeft_11
+      213: -250246701833697242
+    second: mobLeft (1)_11
   - first:
-      213: 6877568619595903739
-    second: goblinLeft_12
+      213: 6969464646616815594
+    second: mobLeft (1)_12
   - first:
-      213: 1032094129936881684
-    second: goblinLeft_13
+      213: -8086702744210857481
+    second: mobLeft (1)_13
   - first:
-      213: 3510992182480631751
-    second: goblinLeft_14
+      213: -5399488337721596664
+    second: mobLeft (1)_14
   - first:
-      213: -2392961419644577005
-    second: goblinLeft_15
+      213: -5500182358707981492
+    second: mobLeft (1)_15
   - first:
-      213: 6795275694047851952
-    second: goblinLeft_16
+      213: 5297156936161374555
+    second: mobLeft (1)_16
   - first:
-      213: 2426043279499077640
-    second: goblinLeft_17
+      213: 9184025213164748477
+    second: mobLeft (1)_17
   - first:
-      213: -3551444984940304190
-    second: goblinLeft_18
+      213: 2589941022669018665
+    second: mobLeft (1)_18
   - first:
-      213: 2561181548941047541
-    second: goblinLeft_19
+      213: -1533013591990885859
+    second: mobLeft (1)_19
   - first:
-      213: 8286179768681999590
-    second: goblinLeft_20
+      213: 5935870665997203576
+    second: mobLeft (1)_20
   - first:
-      213: -4338690108171080260
-    second: goblinLeft_21
+      213: 7359689212042045671
+    second: mobLeft (1)_21
   - first:
-      213: -2580595028591862621
-    second: goblinLeft_22
+      213: 1934252306537552567
+    second: mobLeft (1)_22
   - first:
-      213: -4139600410343333160
-    second: goblinLeft_23
+      213: 2600747910194662228
+    second: mobLeft (1)_23
   - first:
-      213: -4078236142702415227
-    second: goblinLeft_24
+      213: 1168004386707608277
+    second: mobLeft (1)_24
   - first:
-      213: 6713414672657813753
-    second: goblinLeft_25
+      213: 3456671524217224525
+    second: mobLeft (1)_25
   - first:
-      213: -7597587483998492274
-    second: goblinLeft_26
+      213: 5944128620156927028
+    second: mobLeft (1)_26
   - first:
-      213: -1208601545569230730
-    second: goblinLeft_27
+      213: -9078839137171233582
+    second: mobLeft (1)_27
   - first:
-      213: 3960015538250053006
-    second: goblinLeft_28
+      213: -1456875521759055921
+    second: mobLeft (1)_28
   - first:
-      213: 4102159305846626072
-    second: goblinLeft_29
+      213: 8665975373948474980
+    second: mobLeft (1)_29
   - first:
-      213: -5826009258275067405
-    second: goblinLeft_30
+      213: -5751809859523736826
+    second: mobLeft (1)_30
   - first:
-      213: -5606287501152888395
-    second: goblinLeft_31
+      213: -6743982526084325111
+    second: mobLeft (1)_31
   - first:
-      213: 8488975990754683160
-    second: goblinLeft_32
+      213: 6332119188918872331
+    second: mobLeft (1)_32
   - first:
-      213: -4802040102116254868
-    second: goblinLeft_33
+      213: -5112260573157889523
+    second: mobLeft (1)_33
   - first:
-      213: 6632285058000352771
-    second: goblinLeft_34
+      213: -3864795334082023219
+    second: mobLeft (1)_34
   - first:
-      213: 1067722345654575529
-    second: goblinLeft_35
+      213: 719770920263308322
+    second: mobLeft (1)_35
   - first:
-      213: -5473492516207914106
-    second: goblinLeft_36
+      213: 4172680810420537383
+    second: mobLeft (1)_36
   - first:
-      213: 9101706736503679641
-    second: goblinLeft_37
+      213: -532029921473878595
+    second: mobLeft (1)_37
   - first:
-      213: -5292810662757024636
-    second: goblinLeft_38
+      213: 3646464107479969543
+    second: mobLeft (1)_38
   - first:
-      213: -8646322792955342634
-    second: goblinLeft_39
+      213: 9007424731658246405
+    second: mobLeft (1)_39
   - first:
-      213: 7699465545890007124
-    second: goblinLeft_40
+      213: -4831214916103705491
+    second: mobLeft (1)_40
   - first:
-      213: 7826465851030789888
-    second: goblinLeft_41
+      213: 3431317864037576283
+    second: mobLeft (1)_41
   - first:
-      213: 8611475153620792782
-    second: goblinLeft_42
+      213: -5043695561639155336
+    second: mobLeft (1)_42
   - first:
-      213: -6320885100520390885
-    second: goblinLeft_43
+      213: -6853491194089175580
+    second: mobLeft (1)_43
   - first:
-      213: 7551013892514367364
-    second: goblinLeft_44
+      213: 1686605111709871907
+    second: mobLeft (1)_44
   - first:
-      213: 4571162556310629259
-    second: goblinLeft_45
+      213: 5902307912665734181
+    second: mobLeft (1)_45
   - first:
-      213: 5396345800045330730
-    second: goblinLeft_46
+      213: 3434543250271285745
+    second: mobLeft (1)_46
   - first:
-      213: -6511061478266844794
-    second: goblinLeft_47
+      213: -6906718974592919455
+    second: mobLeft (1)_47
   - first:
-      213: -6786869746682334778
-    second: goblinLeft_48
+      213: -3753329019520764150
+    second: mobLeft (1)_48
   - first:
-      213: 6721283760967078723
-    second: goblinLeft_49
+      213: 2269450506604606337
+    second: mobLeft (1)_49
   - first:
-      213: 4450410749446054551
-    second: goblinLeft_50
+      213: -305422751221388380
+    second: mobLeft (1)_50
   - first:
-      213: 3884597445226206138
-    second: goblinLeft_51
+      213: -5591016188959555640
+    second: mobLeft (1)_51
   - first:
-      213: -1268131146280555207
-    second: goblinLeft_52
+      213: 2100517915043203315
+    second: mobLeft (1)_52
   - first:
-      213: -6119498909696647746
-    second: goblinLeft_53
+      213: 5569274548763826688
+    second: mobLeft (1)_53
   - first:
-      213: 4288355725677339089
-    second: goblinLeft_54
+      213: -2220529010017482548
+    second: mobLeft (1)_54
   - first:
-      213: 3568435025258080713
-    second: goblinLeft_55
+      213: 9203414560185124646
+    second: mobLeft (1)_55
   - first:
-      213: 1577457734119737640
-    second: goblinLeft_56
+      213: -1653848484378990658
+    second: mobLeft (1)_56
   - first:
-      213: 8694981921871020941
-    second: goblinLeft_57
+      213: 7821514856926732094
+    second: mobLeft (1)_57
   - first:
-      213: -1214287917796790126
-    second: goblinLeft_58
+      213: -7312342063035247042
+    second: mobLeft (1)_58
   - first:
-      213: 4827660014359757386
-    second: goblinLeft_59
+      213: -8938902399767460815
+    second: mobLeft (1)_59
   - first:
-      213: -7591673697552710115
-    second: goblinLeft_60
+      213: 2082002625904934514
+    second: mobLeft (1)_60
   - first:
-      213: 3436262500596474122
-    second: goblinLeft_61
+      213: 6436406764421741625
+    second: mobLeft (1)_61
   - first:
-      213: -6761721995796840216
-    second: goblinLeft_62
+      213: 2452361598133321523
+    second: mobLeft (1)_62
   - first:
-      213: -8658055275315177462
-    second: goblinLeft_63
+      213: 7248697575503138198
+    second: mobLeft (1)_63
   - first:
-      213: -2985445227087412695
-    second: goblinLeft_64
+      213: -4033006727947305715
+    second: mobLeft (1)_64
   - first:
-      213: -2831503764252336986
-    second: goblinLeft_65
+      213: -4496165456734198181
+    second: mobLeft (1)_65
   - first:
-      213: -7110268315042593591
-    second: goblinLeft_66
+      213: -8053649253195434775
+    second: mobLeft (1)_66
   - first:
-      213: -4999978509574895433
-    second: goblinLeft_67
+      213: 6210091081111985332
+    second: mobLeft (1)_67
   - first:
-      213: 64782605914619741
-    second: goblinLeft_68
+      213: 421344961542346308
+    second: mobLeft (1)_68
   - first:
-      213: -7162827674644115188
-    second: goblinLeft_69
+      213: 6331792277730827211
+    second: mobLeft (1)_69
   - first:
-      213: -3647042904407919175
-    second: goblinLeft_70
+      213: 6822605510325180522
+    second: mobLeft (1)_70
   - first:
-      213: 614864764414054916
-    second: goblinLeft_71
+      213: 1755938235315922676
+    second: mobLeft (1)_71
   - first:
-      213: 420163022470050049
-    second: goblinLeft_72
+      213: 8616881149605362611
+    second: mobLeft (1)_72
   - first:
-      213: -1557328273199640224
-    second: goblinLeft_73
+      213: -5476557878141329662
+    second: mobLeft (1)_73
   - first:
-      213: 2340781505247645746
-    second: goblinLeft_74
+      213: -5904681575423661851
+    second: mobLeft (1)_74
   - first:
-      213: 3060237618595382401
-    second: goblinLeft_75
+      213: -7030289812693147118
+    second: mobLeft (1)_75
+  - first:
+      213: -7177717418004439832
+    second: mobLeft (1)_76
+  - first:
+      213: 4212065417148552542
+    second: mobLeft (1)_77
+  - first:
+      213: -1255347149393526410
+    second: mobLeft (1)_78
+  - first:
+      213: -6240422034964240581
+    second: mobLeft (1)_79
+  - first:
+      213: 3772398229899191103
+    second: mobLeft (1)_80
+  - first:
+      213: 6125371802579640635
+    second: mobLeft (1)_81
+  - first:
+      213: 1871727463672619533
+    second: mobLeft (1)_82
+  - first:
+      213: -8035352805596333089
+    second: mobLeft (1)_83
+  - first:
+      213: 3952078702384047854
+    second: mobLeft (1)_84
+  - first:
+      213: 7621856887672210304
+    second: mobLeft (1)_85
+  - first:
+      213: -7691250761976654995
+    second: mobLeft (1)_86
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -338,1019 +371,1261 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: goblinLeft_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1065
-        width: 1800
-        height: 135
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f68f631f0cfaf8be0800000000000000
-      internalID: -1472765309911369617
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: goblinLeft_1
+      name: mobLeft (1)_0
       rect:
         serializedVersion: 2
         x: 19
-        y: 836
-        width: 50
-        height: 57
+        y: 1087
+        width: 94
+        height: 94
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0a28b4099db2268c0800000000000000
-      internalID: -4007592504977554784
+      spriteID: d3921be9716ad9280800000000000000
+      internalID: -9034882657058477763
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_2
+      name: mobLeft (1)_1
       rect:
         serializedVersion: 2
-        x: 70
-        y: 836
-        width: 54
-        height: 57
+        x: 118
+        y: 1087
+        width: 115
+        height: 94
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 583378b7505fe1ce0800000000000000
-      internalID: -1432438227561139323
+      spriteID: a3621e538a1173690800000000000000
+      internalID: -7622604430145149382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_3
+      name: mobLeft (1)_2
       rect:
         serializedVersion: 2
-        x: 126
-        y: 836
+        x: 251
+        y: 1121
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f00a4083aba0bbe0800000000000000
+      internalID: -1463481160175058704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1087
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004a1f2dd6e4e8990800000000000000
+      internalID: -7381876505616210944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_4
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1087
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe29c84218e393810800000000000000
+      internalID: 1745495054967673583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_5
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1065
+        width: 128
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592070180cfd83840800000000000000
+      internalID: 5204155387318043285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 848
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527c653f82fea2900800000000000000
+      internalID: 660603254523479845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 848
         width: 55
-        height: 57
+        height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 09882dba24dc77290800000000000000
-      internalID: -7892614135709267824
+      spriteID: 8017e6977426db4a0800000000000000
+      internalID: -6575991821771575032
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_4
+      name: mobLeft (1)_8
       rect:
         serializedVersion: 2
-        x: 182
-        y: 836
+        x: 127
+        y: 848
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3fb951357c21ae0800000000000000
+      internalID: -1579981359594867718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_9
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 848
         width: 50
-        height: 57
+        height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 25fb52d5faf0211d0800000000000000
-      internalID: -3381623124345372846
+      spriteID: d3f84d8effefe9640800000000000000
+      internalID: 5088785004051599165
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_5
+      name: mobLeft (1)_10
       rect:
         serializedVersion: 2
-        x: 238
-        y: 836
-        width: 51
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bfa7a75ce76146fe0800000000000000
-      internalID: -1196806867238880517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: goblinLeft_6
-      rect:
-        serializedVersion: 2
-        x: 293
-        y: 836
-        width: 51
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 229d2895fc34b1700800000000000000
-      internalID: 512077540475722018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: goblinLeft_7
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 823
-        width: 109
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8adba3c333c363500800000000000000
-      internalID: 375553809683496360
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: goblinLeft_8
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 823
-        width: 92
-        height: 133
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e9c7bb8d2ce76ade0800000000000000
-      internalID: -1322230065261740898
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: goblinLeft_9
-      rect:
-        serializedVersion: 2
-        x: 890
-        y: 823
-        width: 78
-        height: 133
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b90fe59491f9f8eb0800000000000000
-      internalID: -4715375353879662437
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: goblinLeft_10
-      rect:
-        serializedVersion: 2
-        x: 1129
-        y: 823
-        width: 78
-        height: 130
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0b5c857faea0b1e80800000000000000
-      internalID: -8206953891664181840
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: goblinLeft_11
-      rect:
-        serializedVersion: 2
-        x: 1340
-        y: 823
-        width: 122
-        height: 118
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: de656526460e50710800000000000000
-      internalID: 1658978759507072749
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: goblinLeft_12
-      rect:
-        serializedVersion: 2
-        x: 1584
-        y: 823
-        width: 109
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bf233697838027f50800000000000000
-      internalID: 6877568619595903739
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: goblinLeft_13
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 511
+        x: 239
+        y: 848
         width: 50
-        height: 54
+        height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 41857a5942cb25e00800000000000000
-      internalID: 1032094129936881684
+      spriteID: fb946c3cdf9aa8d30800000000000000
+      internalID: 4434543690476046783
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_14
+      name: mobLeft (1)_11
       rect:
         serializedVersion: 2
-        x: 76
-        y: 511
+        x: 295
+        y: 848
         width: 50
-        height: 54
+        height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7c77ee5b9cc89b030800000000000000
-      internalID: 3510992182480631751
+      spriteID: 6284df653f1f68cf0800000000000000
+      internalID: -250246701833697242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_15
+      name: mobLeft (1)_12
       rect:
         serializedVersion: 2
-        x: 132
-        y: 511
-        width: 50
-        height: 54
+        x: 437
+        y: 855
+        width: 150
+        height: 200
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 31bdedc644e7aced0800000000000000
-      internalID: -2392961419644577005
+      spriteID: ae71d389b2388b060800000000000000
+      internalID: 6969464646616815594
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_16
+      name: mobLeft (1)_13
       rect:
         serializedVersion: 2
-        x: 184
-        y: 511
-        width: 54
-        height: 54
+        x: 825
+        y: 855
+        width: 131
+        height: 158
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0b57196ad3bad4e50800000000000000
-      internalID: 6795275694047851952
+      spriteID: 7f1a22703b246cf80800000000000000
+      internalID: -8086702744210857481
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_17
+      name: mobLeft (1)_14
       rect:
         serializedVersion: 2
-        x: 240
-        y: 511
-        width: 50
-        height: 54
+        x: 1177
+        y: 855
+        width: 147
+        height: 162
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 808244c42890ba120800000000000000
-      internalID: 2426043279499077640
+      spriteID: 8056d3de6f92115b0800000000000000
+      internalID: -5399488337721596664
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_18
+      name: mobLeft (1)_15
       rect:
         serializedVersion: 2
-        x: 385
-        y: 497
-        width: 107
-        height: 123
+        x: 1545
+        y: 855
+        width: 163
+        height: 162
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2c86a414a9bb6bec0800000000000000
-      internalID: -3551444984940304190
+      spriteID: c433755394d6ba3b0800000000000000
+      internalID: -5500182358707981492
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_19
+      name: mobLeft (1)_16
       rect:
         serializedVersion: 2
-        x: 635
-        y: 497
-        width: 113
-        height: 122
+        x: 437
+        y: 604
+        width: 131
+        height: 158
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5f67aed8c052b8320800000000000000
-      internalID: 2561181548941047541
+      spriteID: b51356bfa28438940800000000000000
+      internalID: 5297156936161374555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_20
+      name: mobLeft (1)_17
       rect:
         serializedVersion: 2
-        x: 869
-        y: 527
-        width: 34
-        height: 50
+        x: 832
+        y: 604
+        width: 131
+        height: 163
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6eca159f89c6ef270800000000000000
-      internalID: 8286179768681999590
+      spriteID: dbe7ae6b546347f70800000000000000
+      internalID: 9184025213164748477
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_21
+      name: mobLeft (1)_18
       rect:
         serializedVersion: 2
-        x: 910
-        y: 497
-        width: 92
-        height: 107
+        x: 1229
+        y: 692
+        width: 126
+        height: 90
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cbd26ff7550e9c3c0800000000000000
-      internalID: -4338690108171080260
+      spriteID: 926166553a151f320800000000000000
+      internalID: 2589941022669018665
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_22
+      name: mobLeft (1)_19
       rect:
         serializedVersion: 2
-        x: 1095
-        y: 527
-        width: 42
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3ac94ab7e72ef2cd0800000000000000
-      internalID: -2580595028591862621
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: goblinLeft_23
-      rect:
-        serializedVersion: 2
-        x: 1170
-        y: 497
-        width: 92
-        height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8d2ac6dfb5f2d86c0800000000000000
-      internalID: -4139600410343333160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: goblinLeft_24
-      rect:
-        serializedVersion: 2
-        x: 1340
-        y: 547
-        width: 17
+        x: 1641
+        y: 736
+        width: 26
         height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 582301ce5d13767c0800000000000000
-      internalID: -4078236142702415227
+      spriteID: d12a985a244a9bae0800000000000000
+      internalID: -1533013591990885859
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_25
+      name: mobLeft (1)_20
       rect:
         serializedVersion: 2
-        x: 1424
-        y: 507
-        width: 63
-        height: 67
+        x: 1673
+        y: 752
+        width: 54
+        height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9f01aa95317da2d50800000000000000
-      internalID: 6713414672657813753
+      spriteID: 878bc6fcbe2706250800000000000000
+      internalID: 5935870665997203576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_26
+      name: mobLeft (1)_21
       rect:
         serializedVersion: 2
-        x: 1580
-        y: 547
-        width: 17
-        height: 17
+        x: 1713
+        y: 744
+        width: 10
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e89e052ef62ff8690800000000000000
-      internalID: -7597587483998492274
+      spriteID: 7e86a05585ed22660800000000000000
+      internalID: 7359689212042045671
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_27
+      name: mobLeft (1)_22
       rect:
         serializedVersion: 2
-        x: 1670
-        y: 551
-        width: 12
+        x: 1725
+        y: 740
+        width: 42
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 670ab593c4f2a3fe0800000000000000
-      internalID: -1208601545569230730
+      spriteID: 7ba96258938d7da10800000000000000
+      internalID: 1934252306537552567
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_28
+      name: mobLeft (1)_23
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 720
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b0e79e176b71420800000000000000
+      internalID: 2600747910194662228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_24
       rect:
         serializedVersion: 2
         x: 1705
-        y: 552
-        width: 17
-        height: 17
+        y: 724
+        width: 26
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e85fb66a62dc4f630800000000000000
-      internalID: 3960015538250053006
+      spriteID: 5d21ec52dc5953010800000000000000
+      internalID: 1168004386707608277
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_29
+      name: mobLeft (1)_25
       rect:
         serializedVersion: 2
-        x: 1359
-        y: 532
-        width: 13
-        height: 12
+        x: 1689
+        y: 712
+        width: 18
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8171d0d872ccde830800000000000000
-      internalID: 4102159305846626072
+      spriteID: d4dfc22ef6098ff20800000000000000
+      internalID: 3456671524217224525
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_30
+      name: mobLeft (1)_26
       rect:
         serializedVersion: 2
-        x: 1475
-        y: 522
-        width: 22
-        height: 22
+        x: 1228
+        y: 603
+        width: 139
+        height: 95
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3f9a066727bd52fa0800000000000000
-      internalID: -5826009258275067405
+      spriteID: 43cbfa79c79cd7250800000000000000
+      internalID: 5944128620156927028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_31
+      name: mobLeft (1)_27
       rect:
         serializedVersion: 2
-        x: 1680
-        y: 522
-        width: 27
-        height: 27
+        x: 1617
+        y: 688
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5b9d11998377232b0800000000000000
-      internalID: -5606287501152888395
+      spriteID: 2d4aeff08eb710280800000000000000
+      internalID: -9078839137171233582
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_32
+      name: mobLeft (1)_28
       rect:
         serializedVersion: 2
-        x: 1720
-        y: 527
-        width: 12
-        height: 12
+        x: 1693
+        y: 676
+        width: 46
+        height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 819a0c3efa6eec570800000000000000
-      internalID: 8488975990754683160
+      spriteID: fcfe69b8e6328cbe0800000000000000
+      internalID: -1456875521759055921
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_33
+      name: mobLeft (1)_29
       rect:
         serializedVersion: 2
-        x: 1415
-        y: 512
-        width: 12
-        height: 17
+        x: 1617
+        y: 612
+        width: 74
+        height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c6b1e2c28f9bb5db0800000000000000
-      internalID: -4802040102116254868
+      spriteID: 4665b7430bab34870800000000000000
+      internalID: 8665975373948474980
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_34
+      name: mobLeft (1)_30
       rect:
         serializedVersion: 2
-        x: 1660
-        y: 517
-        width: 7
-        height: 7
+        x: 1721
+        y: 660
+        width: 42
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 306fd33fe1c9a0c50800000000000000
-      internalID: 6632285058000352771
+      spriteID: 60b8f7b38677d20b0800000000000000
+      internalID: -5751809859523736826
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_35
-      rect:
-        serializedVersion: 2
-        x: 1680
-        y: 507
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9a1ec7bf0df41de00800000000000000
-      internalID: 1067722345654575529
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: goblinLeft_36
+      name: mobLeft (1)_31
       rect:
         serializedVersion: 2
         x: 19
-        y: 185
-        width: 70
-        height: 56
+        y: 604
+        width: 52
+        height: 53
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6831baa6e8f3a04b0800000000000000
-      internalID: -5473492516207914106
+      spriteID: 9016d49af9f8862a0800000000000000
+      internalID: -6743982526084325111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_37
+      name: mobLeft (1)_32
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 603
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09a1f27ad430e750800000000000000
+      internalID: 6332119188918872331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_33
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 603
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a60b9381a9d09b0800000000000000
+      internalID: -5112260573157889523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_34
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 603
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc03476ce1d7d5ac0800000000000000
+      internalID: -3864795334082023219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_35
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 603
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22453f5a6d32df900800000000000000
+      internalID: 719770920263308322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_36
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 604
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728843ad61758e930800000000000000
+      internalID: 4172680810420537383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_37
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 608
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5aba0fa99dd98f0800000000000000
+      internalID: -532029921473878595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 363
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f2e8439c7da9230800000000000000
+      internalID: 3646464107479969543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_39
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 363
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509de8fe11dc00d70800000000000000
+      internalID: 9007424731658246405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 363
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ce11471a314fcb0800000000000000
+      internalID: -4831214916103705491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_41
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 363
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e696dda6d7e9f20800000000000000
+      internalID: 3431317864037576283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_42
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 363
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879a84dfb91310ab0800000000000000
+      internalID: -5043695561639155336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_43
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 363
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e50c01021283e0a0800000000000000
+      internalID: -6853491194089175580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_44
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 363
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f23dfb966086710800000000000000
+      internalID: 1686605111709871907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_45
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 365
+        width: 132
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c1b6956c539e150800000000000000
+      internalID: 5902307912665734181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_46
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 365
+        width: 128
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1b22e93e2f9af20800000000000000
+      internalID: 3434543250271285745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_47
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 365
+        width: 128
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16850fb9fa76620a0800000000000000
+      internalID: -6906718974592919455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_48
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 365
+        width: 148
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07bc4a842f79ebc0800000000000000
+      internalID: -3753329019520764150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_49
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 122
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1837f713635be7f10800000000000000
+      internalID: 2269450506604606337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobLeft (1)_50
       rect:
         serializedVersion: 2
         x: 91
-        y: 184
+        y: 121
         width: 54
-        height: 57
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 99ae41fcd02cf4e70800000000000000
-      internalID: 9101706736503679641
+      spriteID: 4ab602f30abe2cbf0800000000000000
+      internalID: -305422751221388380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_38
+      name: mobLeft (1)_51
       rect:
         serializedVersion: 2
         x: 147
-        y: 185
-        width: 39
-        height: 55
+        y: 121
+        width: 40
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 48cb7f6aeb82c86b0800000000000000
-      internalID: -5292810662757024636
+      spriteID: 8cf7b9b0668b862b0800000000000000
+      internalID: -5591016188959555640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_39
+      name: mobLeft (1)_52
       rect:
         serializedVersion: 2
-        x: 188
-        y: 185
-        width: 53
-        height: 55
+        x: 187
+        y: 121
+        width: 52
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6d09880ea37120880800000000000000
-      internalID: -8646322792955342634
+      spriteID: 3f88e7a2ae9862d10800000000000000
+      internalID: 2100517915043203315
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_40
+      name: mobLeft (1)_53
       rect:
         serializedVersion: 2
-        x: 395
-        y: 181
-        width: 108
-        height: 116
+        x: 436
+        y: 127
+        width: 131
+        height: 150
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4580227de1ff9da60800000000000000
-      internalID: 7699465545890007124
+      spriteID: 00a11bfd1b90a4d40800000000000000
+      internalID: 5569274548763826688
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_41
+      name: mobLeft (1)_54
       rect:
         serializedVersion: 2
-        x: 635
-        y: 177
-        width: 118
-        height: 123
+        x: 821
+        y: 119
+        width: 127
+        height: 150
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 00f5a61a9313d9c60800000000000000
-      internalID: 7826465851030789888
+      spriteID: cc8457851a81f21e0800000000000000
+      internalID: -2220529010017482548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_42
+      name: mobLeft (1)_55
       rect:
         serializedVersion: 2
-        x: 875
-        y: 172
-        width: 102
-        height: 125
+        x: 1205
+        y: 119
+        width: 130
+        height: 154
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec57ba3d60b128770800000000000000
-      internalID: 8611475153620792782
+      spriteID: 6270e7cd7c819bf70800000000000000
+      internalID: 9203414560185124646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_43
+      name: mobLeft (1)_56
       rect:
         serializedVersion: 2
-        x: 1114
-        y: 172
-        width: 99
-        height: 125
+        x: 1593
+        y: 119
+        width: 126
+        height: 158
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b1f3c659d74b748a0800000000000000
-      internalID: -6320885100520390885
+      spriteID: eb7a540e0995c09e0800000000000000
+      internalID: -1653848484378990658
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_44
-      rect:
-        serializedVersion: 2
-        x: 1365
-        y: 177
-        width: 92
-        height: 123
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 487cb55d0279ac860800000000000000
-      internalID: 7551013892514367364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: goblinLeft_45
-      rect:
-        serializedVersion: 2
-        x: 1594
-        y: 176
-        width: 103
-        height: 121
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b8b267b3028007f30800000000000000
-      internalID: 4571162556310629259
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: goblinLeft_46
+      name: mobLeft (1)_57
       rect:
         serializedVersion: 2
         x: 587
@@ -1358,21 +1633,21 @@ TextureImporter:
         width: 37
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a218fd00aeba3ea40800000000000000
-      internalID: 5396345800045330730
+      spriteID: e3fde8c725a9b8c60800000000000000
+      internalID: 7821514856926732094
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_47
+      name: mobLeft (1)_58
       rect:
         serializedVersion: 2
         x: 628
@@ -1380,21 +1655,21 @@ TextureImporter:
         width: 29
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 689cc25251014a5a0800000000000000
-      internalID: -6511061478266844794
+      spriteID: e3613a8d2a7558a90800000000000000
+      internalID: -7312342063035247042
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_48
+      name: mobLeft (1)_59
       rect:
         serializedVersion: 2
         x: 658
@@ -1402,21 +1677,21 @@ TextureImporter:
         width: 29
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6c1772c7ce130d1a0800000000000000
-      internalID: -6786869746682334778
+      spriteID: 13449f3b0a3a2f380800000000000000
+      internalID: -8938902399767460815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_49
+      name: mobLeft (1)_60
       rect:
         serializedVersion: 2
         x: 703
@@ -1424,21 +1699,21 @@ TextureImporter:
         width: 38
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3435b0f38fbc64d50800000000000000
-      internalID: 6721283760967078723
+      spriteID: 27e7e7a7b52c4ec10800000000000000
+      internalID: 2082002625904934514
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_50
+      name: mobLeft (1)_61
       rect:
         serializedVersion: 2
         x: 745
@@ -1446,21 +1721,21 @@ TextureImporter:
         width: 38
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 792ef415ff803cd30800000000000000
-      internalID: 4450410749446054551
+      spriteID: 93c7747c9d5b25950800000000000000
+      internalID: 6436406764421741625
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_51
+      name: mobLeft (1)_62
       rect:
         serializedVersion: 2
         x: 787
@@ -1468,43 +1743,43 @@ TextureImporter:
         width: 17
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ab319128bccd8e530800000000000000
-      internalID: 3884597445226206138
+      spriteID: 33fbb8d51e9880220800000000000000
+      internalID: 2452361598133321523
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_52
+      name: mobLeft (1)_63
       rect:
         serializedVersion: 2
-        x: 808
+        x: 807
         y: 41
-        width: 50
+        width: 51
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 93da659f071b66ee0800000000000000
-      internalID: -1268131146280555207
+      spriteID: 69d89182a0c889460800000000000000
+      internalID: 7248697575503138198
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_53
+      name: mobLeft (1)_64
       rect:
         serializedVersion: 2
         x: 862
@@ -1512,21 +1787,21 @@ TextureImporter:
         width: 38
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ebd14240a2c231ba0800000000000000
-      internalID: -6119498909696647746
+      spriteID: d0db0fbafb1e708c0800000000000000
+      internalID: -4033006727947305715
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_54
+      name: mobLeft (1)_65
       rect:
         serializedVersion: 2
         x: 901
@@ -1534,21 +1809,21 @@ TextureImporter:
         width: 41
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d1a283dfcc438b30800000000000000
-      internalID: 4288355725677339089
+      spriteID: b56e9fbb6596a91c0800000000000000
+      internalID: -4496165456734198181
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_55
+      name: mobLeft (1)_66
       rect:
         serializedVersion: 2
         x: 943
@@ -1556,21 +1831,21 @@ TextureImporter:
         width: 17
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c9e194cfb0a58130800000000000000
-      internalID: 3568435025258080713
+      spriteID: 9e432bd9ca0bb3090800000000000000
+      internalID: -8053649253195434775
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_56
+      name: mobLeft (1)_67
       rect:
         serializedVersion: 2
         x: 964
@@ -1578,21 +1853,21 @@ TextureImporter:
         width: 38
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8294662937144e510800000000000000
-      internalID: 1577457734119737640
+      spriteID: 4bc50809fecae2650800000000000000
+      internalID: 6210091081111985332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_57
+      name: mobLeft (1)_68
       rect:
         serializedVersion: 2
         x: 1006
@@ -1600,21 +1875,21 @@ TextureImporter:
         width: 38
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d83c09d6df7caa870800000000000000
-      internalID: 8694981921871020941
+      spriteID: 446d1a8920be8d500800000000000000
+      internalID: 421344961542346308
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_58
+      name: mobLeft (1)_69
       rect:
         serializedVersion: 2
         x: 1048
@@ -1622,21 +1897,21 @@ TextureImporter:
         width: 38
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2907ca4829bf52fe0800000000000000
-      internalID: -1214287917796790126
+      spriteID: bcb15b1878b0fd750800000000000000
+      internalID: 6331792277730827211
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_59
+      name: mobLeft (1)_70
       rect:
         serializedVersion: 2
         x: 1105
@@ -1644,21 +1919,21 @@ TextureImporter:
         width: 17
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a42454c743b4ff240800000000000000
-      internalID: 4827660014359757386
+      spriteID: a681e8d5093ceae50800000000000000
+      internalID: 6822605510325180522
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_60
+      name: mobLeft (1)_71
       rect:
         serializedVersion: 2
         x: 1126
@@ -1666,21 +1941,21 @@ TextureImporter:
         width: 38
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d16c1b69ef4f4a690800000000000000
-      internalID: -7591673697552710115
+      spriteID: 4f6288b85885e5810800000000000000
+      internalID: 1755938235315922676
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_61
+      name: mobLeft (1)_72
       rect:
         serializedVersion: 2
         x: 1180
@@ -1688,21 +1963,21 @@ TextureImporter:
         width: 41
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a016c07c98e00bf20800000000000000
-      internalID: 3436262500596474122
+      spriteID: 3bbbcf950cf459770800000000000000
+      internalID: 8616881149605362611
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_62
+      name: mobLeft (1)_73
       rect:
         serializedVersion: 2
         x: 1222
@@ -1710,21 +1985,21 @@ TextureImporter:
         width: 38
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8e085928ba98922a0800000000000000
-      internalID: -6761721995796840216
+      spriteID: 20fd48930ab5ff3b0800000000000000
+      internalID: -5476557878141329662
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_63
+      name: mobLeft (1)_74
       rect:
         serializedVersion: 2
         x: 1264
@@ -1732,21 +2007,21 @@ TextureImporter:
         width: 38
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a085425799868d780800000000000000
-      internalID: -8658055275315177462
+      spriteID: 5e82419346b5e0ea0800000000000000
+      internalID: -5904681575423661851
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_64
+      name: mobLeft (1)_75
       rect:
         serializedVersion: 2
         x: 1306
@@ -1754,21 +2029,21 @@ TextureImporter:
         width: 38
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 922c11f22619196d0800000000000000
-      internalID: -2985445227087412695
+      spriteID: 212a066d9a46f6e90800000000000000
+      internalID: -7030289812693147118
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_65
+      name: mobLeft (1)_76
       rect:
         serializedVersion: 2
         x: 1348
@@ -1776,21 +2051,21 @@ TextureImporter:
         width: 38
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6acde8f045a74b8d0800000000000000
-      internalID: -2831503764252336986
+      spriteID: 8ec16b99900a36c90800000000000000
+      internalID: -7177717418004439832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_66
+      name: mobLeft (1)_77
       rect:
         serializedVersion: 2
         x: 1405
@@ -1798,21 +2073,21 @@ TextureImporter:
         width: 38
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c4cb28a3a0435d90800000000000000
-      internalID: -7110268315042593591
+      spriteID: e55d8df2e23447a30800000000000000
+      internalID: 4212065417148552542
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_67
+      name: mobLeft (1)_78
       rect:
         serializedVersion: 2
         x: 1447
@@ -1820,21 +2095,21 @@ TextureImporter:
         width: 17
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7b8833c59028c9ab0800000000000000
-      internalID: -4999978509574895433
+      spriteID: 67189923b6c149ee0800000000000000
+      internalID: -1255347149393526410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_68
+      name: mobLeft (1)_79
       rect:
         serializedVersion: 2
         x: 1468
@@ -1842,21 +2117,21 @@ TextureImporter:
         width: 38
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d5f3a25df6726e000800000000000000
-      internalID: 64782605914619741
+      spriteID: b37af6de8319569a0800000000000000
+      internalID: -6240422034964240581
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_69
+      name: mobLeft (1)_80
       rect:
         serializedVersion: 2
         x: 1510
@@ -1864,21 +2139,21 @@ TextureImporter:
         width: 38
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c0110812e26889c90800000000000000
-      internalID: -7162827674644115188
+      spriteID: f33247cf3304a5430800000000000000
+      internalID: 3772398229899191103
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_70
+      name: mobLeft (1)_81
       rect:
         serializedVersion: 2
         x: 1552
@@ -1886,21 +2161,21 @@ TextureImporter:
         width: 38
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9b538222dc9136dc0800000000000000
-      internalID: -3647042904407919175
+      spriteID: b3124f96331b10550800000000000000
+      internalID: 6125371802579640635
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_71
+      name: mobLeft (1)_82
       rect:
         serializedVersion: 2
         x: 1591
@@ -1908,21 +2183,21 @@ TextureImporter:
         width: 41
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 402ddcbde30788800800000000000000
-      internalID: 614864764414054916
+      spriteID: d02ac8c1636b9f910800000000000000
+      internalID: 1871727463672619533
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_72
+      name: mobLeft (1)_83
       rect:
         serializedVersion: 2
         x: 1633
@@ -1930,21 +2205,21 @@ TextureImporter:
         width: 17
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 101f416fa08b4d500800000000000000
-      internalID: 420163022470050049
+      spriteID: fdbfd794231bc7090800000000000000
+      internalID: -8035352805596333089
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_73
+      name: mobLeft (1)_84
       rect:
         serializedVersion: 2
         x: 1654
@@ -1952,21 +2227,21 @@ TextureImporter:
         width: 38
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0615345cf22436ae0800000000000000
-      internalID: -1557328273199640224
+      spriteID: ee6ecfb04aa98d630800000000000000
+      internalID: 3952078702384047854
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_74
+      name: mobLeft (1)_85
       rect:
         serializedVersion: 2
         x: 1696
@@ -1974,21 +2249,21 @@ TextureImporter:
         width: 38
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 230171580602c7020800000000000000
-      internalID: 2340781505247645746
+      spriteID: 083019ef47646c960800000000000000
+      internalID: 7621856887672210304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goblinLeft_75
+      name: mobLeft (1)_86
       rect:
         serializedVersion: 2
         x: 1738
@@ -1996,15 +2271,15 @@ TextureImporter:
         width: 39
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1844aa876e5287a20800000000000000
-      internalID: 3060237618595382401
+      spriteID: d63dde59e20334590800000000000000
+      internalID: -7691250761976654995
       vertices: []
       indices: 
       edges: []
@@ -2013,7 +2288,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0c687f3b1bb4cf147a43e5bdb05309af
     internalID: 0
     vertices: []
     indices: 
@@ -2022,7 +2297,94 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mobLeft (1)_0: -9034882657058477763
+      mobLeft (1)_1: -7622604430145149382
+      mobLeft (1)_10: 4434543690476046783
+      mobLeft (1)_11: -250246701833697242
+      mobLeft (1)_12: 6969464646616815594
+      mobLeft (1)_13: -8086702744210857481
+      mobLeft (1)_14: -5399488337721596664
+      mobLeft (1)_15: -5500182358707981492
+      mobLeft (1)_16: 5297156936161374555
+      mobLeft (1)_17: 9184025213164748477
+      mobLeft (1)_18: 2589941022669018665
+      mobLeft (1)_19: -1533013591990885859
+      mobLeft (1)_2: -1463481160175058704
+      mobLeft (1)_20: 5935870665997203576
+      mobLeft (1)_21: 7359689212042045671
+      mobLeft (1)_22: 1934252306537552567
+      mobLeft (1)_23: 2600747910194662228
+      mobLeft (1)_24: 1168004386707608277
+      mobLeft (1)_25: 3456671524217224525
+      mobLeft (1)_26: 5944128620156927028
+      mobLeft (1)_27: -9078839137171233582
+      mobLeft (1)_28: -1456875521759055921
+      mobLeft (1)_29: 8665975373948474980
+      mobLeft (1)_3: -7381876505616210944
+      mobLeft (1)_30: -5751809859523736826
+      mobLeft (1)_31: -6743982526084325111
+      mobLeft (1)_32: 6332119188918872331
+      mobLeft (1)_33: -5112260573157889523
+      mobLeft (1)_34: -3864795334082023219
+      mobLeft (1)_35: 719770920263308322
+      mobLeft (1)_36: 4172680810420537383
+      mobLeft (1)_37: -532029921473878595
+      mobLeft (1)_38: 3646464107479969543
+      mobLeft (1)_39: 9007424731658246405
+      mobLeft (1)_4: 1745495054967673583
+      mobLeft (1)_40: -4831214916103705491
+      mobLeft (1)_41: 3431317864037576283
+      mobLeft (1)_42: -5043695561639155336
+      mobLeft (1)_43: -6853491194089175580
+      mobLeft (1)_44: 1686605111709871907
+      mobLeft (1)_45: 5902307912665734181
+      mobLeft (1)_46: 3434543250271285745
+      mobLeft (1)_47: -6906718974592919455
+      mobLeft (1)_48: -3753329019520764150
+      mobLeft (1)_49: 2269450506604606337
+      mobLeft (1)_5: 5204155387318043285
+      mobLeft (1)_50: -305422751221388380
+      mobLeft (1)_51: -5591016188959555640
+      mobLeft (1)_52: 2100517915043203315
+      mobLeft (1)_53: 5569274548763826688
+      mobLeft (1)_54: -2220529010017482548
+      mobLeft (1)_55: 9203414560185124646
+      mobLeft (1)_56: -1653848484378990658
+      mobLeft (1)_57: 7821514856926732094
+      mobLeft (1)_58: -7312342063035247042
+      mobLeft (1)_59: -8938902399767460815
+      mobLeft (1)_6: 660603254523479845
+      mobLeft (1)_60: 2082002625904934514
+      mobLeft (1)_61: 6436406764421741625
+      mobLeft (1)_62: 2452361598133321523
+      mobLeft (1)_63: 7248697575503138198
+      mobLeft (1)_64: -4033006727947305715
+      mobLeft (1)_65: -4496165456734198181
+      mobLeft (1)_66: -8053649253195434775
+      mobLeft (1)_67: 6210091081111985332
+      mobLeft (1)_68: 421344961542346308
+      mobLeft (1)_69: 6331792277730827211
+      mobLeft (1)_7: -6575991821771575032
+      mobLeft (1)_70: 6822605510325180522
+      mobLeft (1)_71: 1755938235315922676
+      mobLeft (1)_72: 8616881149605362611
+      mobLeft (1)_73: -5476557878141329662
+      mobLeft (1)_74: -5904681575423661851
+      mobLeft (1)_75: -7030289812693147118
+      mobLeft (1)_76: -7177717418004439832
+      mobLeft (1)_77: 4212065417148552542
+      mobLeft (1)_78: -1255347149393526410
+      mobLeft (1)_79: -6240422034964240581
+      mobLeft (1)_8: -1579981359594867718
+      mobLeft (1)_80: 3772398229899191103
+      mobLeft (1)_81: 6125371802579640635
+      mobLeft (1)_82: 1871727463672619533
+      mobLeft (1)_83: -8035352805596333089
+      mobLeft (1)_84: 3952078702384047854
+      mobLeft (1)_85: 7621856887672210304
+      mobLeft (1)_86: -7691250761976654995
+      mobLeft (1)_9: 5088785004051599165
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

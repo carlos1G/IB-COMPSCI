@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections;
+using System;
 
 public class PlayerCtrl : MonoBehaviour
 {
@@ -29,8 +30,14 @@ public class PlayerCtrl : MonoBehaviour
     private void FlipCharacterX()
     {
         float threshold = 0.01f; // Prevent small unintended flips
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            animator.SetTrigger("Attack");
 
-        if (Mathf.Abs(transform.position.x - xPosLastFrame) > threshold) // Corrected flip logic
+            // Make sure the character is facing left during attack
+            spriteRenderer.flipX = false;
+        }
+        if (Math.Abs(transform.position.x - xPosLastFrame) > threshold) // Corrected flip logic
         {
             spriteRenderer.flipX = transform.position.x < xPosLastFrame; // Flip left or right
         }
